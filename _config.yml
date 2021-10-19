@@ -20,7 +20,7 @@ title                    : "Manager Mwohye"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mwohye"
-description              : "IT 회사에서 일하는 문돌이 매니저"
+description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "머해"
+  name             : "매니저 뭐해"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "IT 회사에서 일하는 문돌이"
+  bio              : "IT회사에서 브랜딩, 전략 기획, 데이터 시각화를 하고 있습니다."
   location         : # "Somewhere"
   email            :
   links:
