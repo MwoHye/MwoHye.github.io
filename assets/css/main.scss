@@ -7,9 +7,16 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// @font-face {
+//     font-family: 'RIDIBatang';
+//     src: url('/assets/fonts/RIDIBatang.woff') format('woff');
+//     font-weight: normal;
+//     font-style: normal;
+// }
+
 @font-face {
-    font-family: 'RIDIBatang';
-    src: url('/assets/fonts/RIDIBatang.woff') format('woff');
+    font-family: 'Chosunilbo_myungjo';
+    src: url('/assets/fonts/Chosunilbo_myungjo.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
