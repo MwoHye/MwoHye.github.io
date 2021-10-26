@@ -1,39 +1,56 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-26T17:00:51+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Manager Mwohye</title><subtitle></subtitle><author><name>매니저 뭐해</name></author><entry><title type="html">SQL 정리(2/5) - 2과목 1장, SQL 기본</title><link href="http://localhost:4000/sql/SQLD-2/" rel="alternate" type="text/html" title="SQL 정리(2/5) - 2과목 1장, SQL 기본" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-27T03:01:27+09:00</updated><id>http://localhost:4000/sql/SQLD-2</id><content type="html" xml:base="http://localhost:4000/sql/SQLD-2/">&lt;h3 id=&quot;제-1절-관계형-데이터베이스-개요&quot;&gt;제 1절. 관계형 데이터베이스 개요&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-26T22:40:52+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Manager Mwohye</title><subtitle></subtitle><author><name>매니저 뭐해</name></author><entry><title type="html">SQL - FOREIGN KEY에 의한 명령어 정리 (CASCADE, SET NULL)</title><link href="http://localhost:4000/sql/SQLD-3/" rel="alternate" type="text/html" title="SQL - FOREIGN KEY에 의한 명령어 정리 (CASCADE, SET NULL)" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-27T03:01:27+09:00</updated><id>http://localhost:4000/sql/SQLD-3</id><content type="html" xml:base="http://localhost:4000/sql/SQLD-3/">&lt;h3 id=&quot;foreign-key에-의한-actions&quot;&gt;FOREIGN KEY에 의한 ACTIONS&lt;/h3&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;데이터베이스 : “특정 기업이나 조직 또는 개인이 필요에 의해 데이터를 일정한 형태로 저장한 것”&lt;/li&gt;
-  &lt;li&gt;SQL : “관계형데이터베이스에서 데이터 정의 데이터 조작, 데이터 제어를 하기 위해 사용하는 언어”
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ON DELETE&lt;/code&gt; 부모 테이블의 행이 삭제될 때 자식 테이블에 일어나는 일들
     &lt;ul&gt;
-      &lt;li&gt;데이터 조작어 (DML) &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;* M : Manipulation&lt;/code&gt;
-        &lt;ul&gt;
-          &lt;li&gt;DB 내 데이터에 대한 조회, 검색, 변형을 위한 명령어&lt;/li&gt;
-          &lt;li&gt;SELECT, INSERT, DELETE, ★UPDATE&lt;/li&gt;
-          &lt;li&gt;Not Auto Commit, Rollback 가능, 테이블 row단위로 데이터 컨트롤&lt;/li&gt;
-          &lt;li&gt;비절차적 데이터 조작어, 데이터 부속어 라고도 표현&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;데이터 정의어 (DDL)
-        &lt;ul&gt;
-          &lt;li&gt;스키마, 도메인, 테이블, 뷰, 인덱스 등을 정의, 변경, 제거. 데이터 구조와 관련된 명령어&lt;/li&gt;
-          &lt;li&gt;CREATE, ALTER, DROP, RENAME, TRUNCATE&lt;/li&gt;
-          &lt;li&gt;Auto Commit, Rollback 불가, 테이블 단위 컨트롤&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;데이터 제어어 (DCL)
-        &lt;ul&gt;
-          &lt;li&gt;DB에 접근하고 객체 사용 권한을 주거나 회수하는 명령어&lt;/li&gt;
-          &lt;li&gt;GRANT, REVOKE&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;트랜젝션 제어어 (TCL)
-        &lt;ul&gt;
-          &lt;li&gt;DML에 의해 조작된 결과를 작업단위(트랜젝션)별로 제어하는 명령어&lt;/li&gt;
-          &lt;li&gt;COMMIT, ROLLBACK, SAVEPOINT&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
+      &lt;li&gt;CASDADE : 부모 삭제 시 자식도 삭제&lt;/li&gt;
+      &lt;li&gt;SET NULL : 부모 삭제 시 자식은 NULL로 설정&lt;/li&gt;
+      &lt;li&gt;SET DEFAULT : 부모 삭제 시 자식은 기본값 설정&lt;/li&gt;
+      &lt;li&gt;RESTRICT : 자식이 없는 경우만 부모 삭제&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>매니저 뭐해</name></author><category term="SQL" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">제 1절. 관계형 데이터베이스 개요</summary></entry><entry><title type="html">SQL 정리(1/5) - 1과목, 데이터 모델링의 이해 및 데이터 모델과 성능</title><link href="http://localhost:4000/sql/SQLD-1/" rel="alternate" type="text/html" title="SQL 정리(1/5) - 1과목, 데이터 모델링의 이해 및 데이터 모델과 성능" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-23T03:01:27+09:00</updated><id>http://localhost:4000/sql/SQLD-1</id><content type="html" xml:base="http://localhost:4000/sql/SQLD-1/">&lt;h3 id=&quot;제-1절-데이터모델의-이해&quot;&gt;제 1절. 데이터모델의 이해&lt;/h3&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ON INSERT&lt;/code&gt; 자식 테이블의 행이 입력될 때 부모 테이블 행과 관련하여 처리하는 일들
+    &lt;ul&gt;
+      &lt;li&gt;AUTOMATIC : 부모가 없을 때 부모 입력 후 자식 입력&lt;/li&gt;
+      &lt;li&gt;SET NULL : 부모가 없을 때 자식의 FK를 NULL로 입력&lt;/li&gt;
+      &lt;li&gt;SET DEFAULT : 부모가 없을 때 자식의 FK를 기본값 설정&lt;/li&gt;
+      &lt;li&gt;DEPENDENT : 입력하려는 값이 부모의 PK에 있는 경우에만 입력 가능하게 설정&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;cascade와-set-null&quot;&gt;CASCADE와 SET NULL&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;ON DELETE CASCADE
+    &lt;ul&gt;
+      &lt;li&gt;부모 테이블에서 PRIMARY 값이 삭제될 경우, 하위 테이블의 REFERENCE 값이 삭제&lt;/li&gt;
+      &lt;li&gt;이 경우, REFERENCE 값 뿐만 아니라 관련 투플(행)이 함께 삭제됨&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ON UPDATE CASCADE
+    &lt;ul&gt;
+      &lt;li&gt;부모 테이블에서 PRIMARY 값이 수정될 경우, 하위 테이블의 REFERENCE 값이 상위 테이블의 수정 값을 가져옴&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ON DELETE SET NULL &amp;amp; ON UPDATE SET NULL
+    &lt;ul&gt;
+      &lt;li&gt;부모 테이블에서 PRIMARY 값이 수정 또는 삭제될 경우, 하위 테이블의 REFERENCE 값이 NULL로 변경&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이름이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; 
+  &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;INTEGER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;PRIMARY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;KEY&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;INTEGER&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;INTEGER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;PRIMARY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;KEY&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;INTEGER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;REFERENCES&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DELETE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;CASCADE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;INTEGER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;PRIMARY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;KEY&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;INTEGER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;REFERENCES&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DELETE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SET&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;NULL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>매니저 뭐해</name></author><category term="SQL" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">FOREIGN KEY에 의한 ACTIONS</summary></entry><entry><title type="html">SQL 정리(1/5) - 1과목, 데이터 모델링의 이해 및 데이터 모델과 성능</title><link href="http://localhost:4000/sql/SQLD-1/" rel="alternate" type="text/html" title="SQL 정리(1/5) - 1과목, 데이터 모델링의 이해 및 데이터 모델과 성능" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-23T03:01:27+09:00</updated><id>http://localhost:4000/sql/SQLD-1</id><content type="html" xml:base="http://localhost:4000/sql/SQLD-1/">&lt;h3 id=&quot;제-1절-데이터모델의-이해&quot;&gt;제 1절. 데이터모델의 이해&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;모델링의 이해
@@ -144,4 +161,130 @@
       &lt;li&gt;발생시점에 따른 분류 : 기본 엔터티, 중심 엔터티, 행위 엔터티&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>매니저 뭐해</name></author><category term="SQL" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">제 1절. 데이터모델의 이해</summary></entry></feed>
+&lt;/ol&gt;</content><author><name>매니저 뭐해</name></author><category term="SQL" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">제 1절. 데이터모델의 이해</summary></entry><entry><title type="html">SQL 정리(2/5) - 2과목 1장, SQL 기본</title><link href="http://localhost:4000/sql/SQLD-2/" rel="alternate" type="text/html" title="SQL 정리(2/5) - 2과목 1장, SQL 기본" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-27T03:01:27+09:00</updated><id>http://localhost:4000/sql/SQLD-2</id><content type="html" xml:base="http://localhost:4000/sql/SQLD-2/">&lt;h3 id=&quot;제-1절-관계형-데이터베이스-개요&quot;&gt;제 1절. 관계형 데이터베이스 개요&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;데이터베이스 : “특정 기업이나 조직 또는 개인이 필요에 의해 데이터를 일정한 형태로 저장한 것”&lt;/li&gt;
+  &lt;li&gt;SQL : “관계형데이터베이스에서 데이터 정의 데이터 조작, 데이터 제어를 하기 위해 사용하는 언어”
+    &lt;ul&gt;
+      &lt;li&gt;데이터 조작어 (DML) &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;* M : Manipulation&lt;/code&gt;
+        &lt;ul&gt;
+          &lt;li&gt;DB 내 데이터에 대한 조회, 검색, 변형을 위한 명령어&lt;/li&gt;
+          &lt;li&gt;SELECT, INSERT, DELETE, ★UPDATE&lt;/li&gt;
+          &lt;li&gt;Not Auto Commit, Rollback 가능, 테이블 row단위로 데이터 컨트롤&lt;/li&gt;
+          &lt;li&gt;비절차적 데이터 조작어, 데이터 부속어 라고도 표현&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;데이터 정의어 (DDL)
+        &lt;ul&gt;
+          &lt;li&gt;스키마, 도메인, 테이블, 뷰, 인덱스 등을 정의, 변경, 제거. 데이터 구조와 관련된 명령어&lt;/li&gt;
+          &lt;li&gt;CREATE, ALTER, DROP, RENAME, TRUNCATE&lt;/li&gt;
+          &lt;li&gt;Auto Commit, Rollback 불가, 테이블 단위 컨트롤&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;데이터 제어어 (DCL)
+        &lt;ul&gt;
+          &lt;li&gt;DB에 접근하고 객체 사용 권한을 주거나 회수하는 명령어&lt;/li&gt;
+          &lt;li&gt;GRANT, REVOKE&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;트랜젝션 제어어 (TCL)
+        &lt;ul&gt;
+          &lt;li&gt;DML에 의해 조작된 결과를 작업단위(트랜젝션)별로 제어하는 명령어&lt;/li&gt;
+          &lt;li&gt;COMMIT, ROLLBACK, SAVEPOINT&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;제-2절-ddl&quot;&gt;제 2절. DDL&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;데이터 유형
+    &lt;ul&gt;
+      &lt;li&gt;CHARACTER(s), VARCHAR(s), NUMERIC, DATE&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;CREATE TABLE
+    &lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;
+ &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼명&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;CHAR&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;NOT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;NULL&lt;/span&gt;
+ &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼명&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;NULL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+ &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;CONSTRAINT&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;제약조건이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;PRIMARY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;KEY&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PLAYER_ID&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+ &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;CONSTRAINT&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;제약조건이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FOREIGN&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;KEY&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_ID&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;REFERENCES&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TEAM&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_ID&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;제약조건(CONSTRAINT)
+    &lt;ul&gt;
+      &lt;li&gt;NOT NULL&lt;/li&gt;
+      &lt;li&gt;UNIQUE &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;* UNIQUE는 NULL 값을 가질 수 있다&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;PRIMARY KEY : NOT NULL &amp;amp; UNIQUE
+        &lt;ul&gt;
+          &lt;li&gt;테이블에 PK를 복수로 생성할 수 없다.&lt;/li&gt;
+          &lt;li&gt;하지만 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CONSTRAINT&lt;/code&gt;를 활용하여 속성들을 괄호 안에 설정하면 생성할 수 있다. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;PRIMARY KEY(col_1, col_2)&lt;/code&gt;&lt;/li&gt;
+          &lt;li&gt;즉 기본 키를 구성하는 칼럼은 복수일 수 있지만, 기본 키가 복수일 수는 없다.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;FOREIGN KEY : 참조무결성 제약&lt;/li&gt;
+      &lt;li&gt;CHECK : 해당 조건을 만족하는 값으로만 입력 제한, 데이터의 무결성 유지를 위해 특정 컬럼에 설정&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;ALTER TABLE&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;SQL은 여러 컬럼/테이블은 하나의 명령으로 작업할 수 X (Oracle에서는 가능)&lt;/p&gt;
+
+    &lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &lt;span class=&quot;k&quot;&gt;ALTER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ADD&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;칼럼명&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;VARCHAR&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;80&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;추가&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;ALTER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALTER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;COLUMN&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;칼럼명&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;VARCHAR&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;NOT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;NULL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;속성명변경&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;ALTER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DROP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;COLUMN&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;칼럼명&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;속성&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;삭제&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;테이블을 생성한 후에 제약조건을 추가하고 싶은 경우에는 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ALTER TABLE&lt;/code&gt; 과 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ADD&lt;/code&gt; 추가&lt;/p&gt;
+
+    &lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;ALTER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ADD&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;CONSTRAINT&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;제약조건이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;PRIMARY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;KEY&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;col_1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;col_2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;테이블 이름 변경하기&lt;/p&gt;
+
+    &lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;RENAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TO&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;새로운테이블이름&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;foreign-key에-의한-actions&quot;&gt;FOREIGN KEY에 의한 ACTIONS&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ON DELETE&lt;/code&gt; 부모 테이블의 행이 삭제될 때 자식 테이블에 일어나는 일들
+    &lt;ul&gt;
+      &lt;li&gt;CASDADE : 부모 삭제 시 자식도 삭제&lt;/li&gt;
+      &lt;li&gt;SET NULL : 부모 삭제 시 자식은 NULL로 설정&lt;/li&gt;
+      &lt;li&gt;SET DEFAULT : 부모 삭제 시 자식은 기본값 설정&lt;/li&gt;
+      &lt;li&gt;RESTRICT : 자식이 없는 경우만 부모 삭제&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ON INSERT&lt;/code&gt; 자식 테이블의 행이 입력될 때 부모 테이블 행과 관련하여 처리하는 일들
+    &lt;ul&gt;
+      &lt;li&gt;AUTOMATIC : 부모가 없을 때 부모 입력 후 자식 입력&lt;/li&gt;
+      &lt;li&gt;SET NULL : 부모가 없을 때 자식의 FK를 NULL로 입력&lt;/li&gt;
+      &lt;li&gt;SET DEFAULT : 부모가 없을 때 자식의 FK를 기본값 설정&lt;/li&gt;
+      &lt;li&gt;DEPENDENT : 입력하려는 값이 부모의 PK에 있는 경우에만 입력 가능하게 설정&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>매니저 뭐해</name></author><category term="SQL" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">제 1절. 관계형 데이터베이스 개요</summary></entry></feed>

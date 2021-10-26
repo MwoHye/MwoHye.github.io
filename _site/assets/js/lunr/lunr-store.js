@@ -10,4 +10,10 @@ var store = [{
         "tags": ["SQL","SQLD","자격증"],
         "url": "/sql/SQLD-2/",
         "teaser": null
+      },{
+        "title": "SQL - FOREIGN KEY에 의한 명령어 정리 (CASCADE, SET NULL)",
+        "excerpt":"FOREIGN KEY에 의한 ACTIONS ON DELETE 부모 테이블의 행이 삭제될 때 자식 테이블에 일어나는 일들 CASDADE : 부모 삭제 시 자식도 삭제 SET NULL : 부모 삭제 시 자식은 NULL로 설정 SET DEFAULT : 부모 삭제 시 자식은 기본값 설정 RESTRICT : 자식이 없는 경우만 부모 삭제 ON INSERT 자식...","categories": ["SQL"],
+        "tags": ["SQL","SQLD","자격증"],
+        "url": "/sql/SQLD-3/",
+        "teaser": null
       }]
