@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-26T16:07:52+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Manager Mwohye</title><subtitle></subtitle><author><name>매니저 뭐해</name></author><entry><title type="html">SQL 정리(1/5) - 데이터 모델링의 이해, 데이터 모델과 성능</title><link href="http://localhost:4000/sql/post-modified/" rel="alternate" type="text/html" title="SQL 정리(1/5) - 데이터 모델링의 이해, 데이터 모델과 성능" /><published>2010-01-07T00:00:00+09:00</published><updated>2021-10-23T03:01:27+09:00</updated><id>http://localhost:4000/sql/post-modified</id><content type="html" xml:base="http://localhost:4000/sql/post-modified/">&lt;h3 id=&quot;제1절-데이터모델의-이해&quot;&gt;제1절 데이터모델의 이해&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-26T17:00:51+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Manager Mwohye</title><subtitle></subtitle><author><name>매니저 뭐해</name></author><entry><title type="html">SQL 정리(2/5) - 2과목 1장, SQL 기본</title><link href="http://localhost:4000/sql/SQLD-2/" rel="alternate" type="text/html" title="SQL 정리(2/5) - 2과목 1장, SQL 기본" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-27T03:01:27+09:00</updated><id>http://localhost:4000/sql/SQLD-2</id><content type="html" xml:base="http://localhost:4000/sql/SQLD-2/">&lt;h3 id=&quot;제-1절-관계형-데이터베이스-개요&quot;&gt;제 1절. 관계형 데이터베이스 개요&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;데이터베이스 : “특정 기업이나 조직 또는 개인이 필요에 의해 데이터를 일정한 형태로 저장한 것”&lt;/li&gt;
+  &lt;li&gt;SQL : “관계형데이터베이스에서 데이터 정의 데이터 조작, 데이터 제어를 하기 위해 사용하는 언어”
+    &lt;ul&gt;
+      &lt;li&gt;데이터 조작어 (DML) &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;* M : Manipulation&lt;/code&gt;
+        &lt;ul&gt;
+          &lt;li&gt;DB 내 데이터에 대한 조회, 검색, 변형을 위한 명령어&lt;/li&gt;
+          &lt;li&gt;SELECT, INSERT, DELETE, ★UPDATE&lt;/li&gt;
+          &lt;li&gt;Not Auto Commit, Rollback 가능, 테이블 row단위로 데이터 컨트롤&lt;/li&gt;
+          &lt;li&gt;비절차적 데이터 조작어, 데이터 부속어 라고도 표현&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;데이터 정의어 (DDL)
+        &lt;ul&gt;
+          &lt;li&gt;스키마, 도메인, 테이블, 뷰, 인덱스 등을 정의, 변경, 제거. 데이터 구조와 관련된 명령어&lt;/li&gt;
+          &lt;li&gt;CREATE, ALTER, DROP, RENAME, TRUNCATE&lt;/li&gt;
+          &lt;li&gt;Auto Commit, Rollback 불가, 테이블 단위 컨트롤&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;데이터 제어어 (DCL)
+        &lt;ul&gt;
+          &lt;li&gt;DB에 접근하고 객체 사용 권한을 주거나 회수하는 명령어&lt;/li&gt;
+          &lt;li&gt;GRANT, REVOKE&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;트랜젝션 제어어 (TCL)
+        &lt;ul&gt;
+          &lt;li&gt;DML에 의해 조작된 결과를 작업단위(트랜젝션)별로 제어하는 명령어&lt;/li&gt;
+          &lt;li&gt;COMMIT, ROLLBACK, SAVEPOINT&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>매니저 뭐해</name></author><category term="SQL" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">제 1절. 관계형 데이터베이스 개요</summary></entry><entry><title type="html">SQL 정리(1/5) - 1과목, 데이터 모델링의 이해 및 데이터 모델과 성능</title><link href="http://localhost:4000/sql/SQLD-1/" rel="alternate" type="text/html" title="SQL 정리(1/5) - 1과목, 데이터 모델링의 이해 및 데이터 모델과 성능" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-23T03:01:27+09:00</updated><id>http://localhost:4000/sql/SQLD-1</id><content type="html" xml:base="http://localhost:4000/sql/SQLD-1/">&lt;h3 id=&quot;제-1절-데이터모델의-이해&quot;&gt;제 1절. 데이터모델의 이해&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;모델링의 이해
@@ -89,7 +124,7 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&quot;제-2절-엔터티&quot;&gt;제 2절 엔터티&lt;/h3&gt;
+&lt;h3 id=&quot;제-2절-엔터티&quot;&gt;제 2절. 엔터티&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;엔터티의 개념 : “실체, 객체”&lt;/li&gt;
@@ -109,4 +144,4 @@
       &lt;li&gt;발생시점에 따른 분류 : 기본 엔터티, 중심 엔터티, 행위 엔터티&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>매니저 뭐해</name></author><category term="SQL" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">제1절 데이터모델의 이해</summary></entry></feed>
+&lt;/ol&gt;</content><author><name>매니저 뭐해</name></author><category term="SQL" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">제 1절. 데이터모델의 이해</summary></entry></feed>
