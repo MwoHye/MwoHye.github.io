@@ -1,7 +1,7 @@
 var store = [{
-        "title": "Post: Modified Date2",
-        "excerpt":"This post has been updated and should show a modified date if last_modified_at is used in the layout.   Plugins like jekyll-sitemap use this field to add a &lt;lastmod&gt; tag your sitemap.xml.  ","categories": ["Post Formats"],
-        "tags": ["Post Formats","readability","standard"],
-        "url": "/post%20formats/post-modified/",
+        "title": "SQL 정리(1/5) - 데이터 모델링의 이해, 데이터 모델과 성능",
+        "excerpt":"제1절 데이터모델의 이해 모델링의 이해 모델링 : “다양한 현상을 표기법에 의해 표기하는 것” 특징 3가지 : 추상화, 단순화, 명확화 관점 3가지 : 데이터 관점, 프로세스 관점, 상관 관점 데이터모델의 기본개념이해 데이터모델링 : “정보시스템을 구축하기 위한 데이터관점의 업무분석기법” 데이터모델이 제공하는 기능 시스템 가시화, 시스템 구조와 행동 명세화, 시스템 구축의 구조화된 틀...","categories": ["SQL"],
+        "tags": ["SQL","SQLD","자격증"],
+        "url": "/sql/post-modified/",
         "teaser": null
       }]
