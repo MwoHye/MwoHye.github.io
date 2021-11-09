@@ -18,7 +18,7 @@ var store = [{
         "teaser": null
       },{
         "title": "SQL 정리(4/5) - 2과목 2장, SQL 활용",
-        "excerpt":"  제 1절. 표쥰 조인 제 2절. 집합 연산자 제 3절. 계층형 질의와 셀프 조인 제 4절. 서브쿼리 제 5절. 그룹 함수 제 6절. 윈도우 함수 WINDOW FUNCTION 개요 1. 그룹 내 순위 함수 RANK 함수 DENSE_RANK 함수 : 동일한 순위를 하나의 건수로 취급, 중간 순위 X ROW_NUMBER 함수 :...","categories": ["SQL"],
+        "excerpt":"  제 1절. 표준 조인 STANDARD SQL 일반 집합 연산자 UNION -&gt; UNION INTERSECTION -&gt; INTERSECT DIFFERENCE -&gt; EXCEPT PRODUCT -&gt; CROSS JOIN (CARTESIAN PRODUCT) 순수관계연산자 SELECT -&gt; WHERE (행 선택) PROJECT -&gt; SELECT (열 선택) (NATURAL) JOIN -&gt; 다양한 JOIN DIVIDE -&gt; 사용 X 제 2절. 집합 연산자 제...","categories": ["SQL"],
         "tags": ["SQL","SQLD","자격증"],
         "url": "/sql/SQLD-4/",
         "teaser": null
