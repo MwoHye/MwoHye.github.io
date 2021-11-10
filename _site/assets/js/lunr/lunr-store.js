@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "SQL 정리(2/5) - 2과목 1장, SQL 기본",
-        "excerpt":"  제 1절. 관계형 데이터베이스 개요 데이터베이스 “특정 기업이나 조직 또는 개인이 필요에 의해 데이터를 일정한 형태로 저장한 것” SQL “관계형데이터베이스에서 데이터 정의 데이터 조작, 데이터 제어를 하기 위해 사용하는 언어” 1. 데이터 조작어 (DML) : SELECT, INSERT, DELETE, UPDATE DB 내 데이터에 대한 조회, 검색, 변형을 위한 명령어 (M...","categories": ["SQL"],
+        "excerpt":"  제 1절. 관계형 데이터베이스 개요 데이터베이스 “특정 기업이나 조직 또는 개인이 필요에 의해 데이터를 일정한 형태로 저장한 것” SQL “관계형데이터베이스에서 데이터 정의 데이터 조작, 데이터 제어를 하기 위해 사용하는 언어” 1. 데이터 조작어 (DML) : SELECT, INSERT, DELETE, UPDATE, MERGE DB 내 데이터에 대한 조회, 검색, 변형을 위한 명령어...","categories": ["SQL"],
         "tags": ["SQL","SQLD","자격증"],
         "url": "/sql/SQLD-2/",
         "teaser": null
@@ -30,7 +30,7 @@ var store = [{
         "teaser": null
       },{
         "title": "SQLD 핵심노트 (1/2)",
-        "excerpt":"   SQL 명령문 개괄   SQL 연산 순서   SELECT      – 5  FROM        – 1  WHERE       – 2  GROUP BY    – 3  HAVING      – 4  ORDER BY    – 6   DML       ","categories": ["SQL"],
+        "excerpt":"  SQL 명령문 개괄 ★ SQL 연산 순서 SELECT – 5 FROM – 1 WHERE – 2 GROUP BY – 3 HAVING – 4 ORDER BY – 6 DML SELECT, DELETE, UPDATE, INSERT DDL CREATE, DROP, ALTER, RENAME, TRUNCATE DCL REVOKE, GRANT TCL COMMIT, ROLLBACK, SAVEPOINT   SELECT절 alias SELECT...","categories": ["SQL"],
         "tags": ["SQL","SQLD","자격증"],
         "url": "/sql/SQLD-6/",
         "teaser": null
