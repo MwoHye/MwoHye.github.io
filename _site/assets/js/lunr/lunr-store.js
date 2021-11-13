@@ -34,4 +34,16 @@ var store = [{
         "tags": ["SQL","SQLD","자격증"],
         "url": "/sql/SQLD-6/",
         "teaser": null
+      },{
+        "title": "[SQLD 최종오답노트] 과목 1 - 데이터의 이해",
+        "excerpt":"  1장. 데이터 모델링의 이해   2장. 데이터 모델과 성능 성능 데이터 모델링 순서 정규화 → 용량산정 → 트렌젝션 파악 → 반정규화 → PK/FK등 조정 → 검증 1차, 2차, 3차 데이터 정규화 1차 정규화 : 1) 같은 성격과 내용의 컬럼이 연속적으로 나오는 경우 2) 속성 하나에 2개 이상 속성값이 있는...","categories": ["SQL"],
+        "tags": ["SQL","SQLD","자격증"],
+        "url": "/sql/SQLD-98/",
+        "teaser": null
+      },{
+        "title": "[SQLD 최종오답노트] 과목 2 - SQL 기본 및 활용",
+        "excerpt":"  1장. SQL 기본 비절차적 &amp; 절차적 데이터 조작어 (DML) 비절차적 데이터 조작어 : 무슨 데이터 원하는지 명세 절차적 데이터 조작어 : 무슨 데이터 원하는지 + 어떻게 접근해야 하는지 DELETE &amp; TRUNCATE &amp; DROP DELETE : DML, 데이터만 삭제, 로그 O, 원하는 데이터만 지울 수 있음, ROLLBACK 가능 TRUNCATE :...","categories": ["SQL"],
+        "tags": ["SQL","SQLD","자격증"],
+        "url": "/sql/SQLD-99/",
+        "teaser": null
       }]
