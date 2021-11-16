@@ -29,14 +29,14 @@ var store = [{
         "url": "/sql/SQLD-4/",
         "teaser": null
       },{
-        "title": "SQLD 핵심노트 (1/2)",
+        "title": "SQLD (개정) 최종 정리강의 노트 (1/2)",
         "excerpt":"해당 내용은 김강민 SQLD ‘SQLD 최종 정리강의 1편’과 관련된 내용입니다. 관련 영상 링크 : https://www.youtube.com/watch?v=PC3ypt_VGWI&amp;t 1. SQL 명령문 개괄 ★ SQL 연산 순서 SELECT – 5 FROM – 1 WHERE – 2 GROUP BY – 3 HAVING – 4 ORDER BY – 6 DML / DDL / DCL / TCL...","categories": ["SQL"],
         "tags": ["SQL","SQLD","자격증"],
         "url": "/sql/SQLD-91/",
         "teaser": null
       },{
-        "title": "SQLD 핵심노트 (1/2)",
-        "excerpt":"  SQL 명령문 개괄 ★ SQL 연산 순서 SELECT – 5 FROM – 1 WHERE – 2 GROUP BY – 3 HAVING – 4 ORDER BY – 6 DML SELECT, DELETE, UPDATE, INSERT DDL CREATE, DROP, ALTER, RENAME, TRUNCATE DCL REVOKE, GRANT TCL COMMIT, ROLLBACK, SAVEPOINT   SELECT절 alias SELECT...","categories": ["SQL"],
+        "title": "SQLD (개정) 최종 정리강의 노트 (2/2)",
+        "excerpt":"해당 내용은 김강민 SQLD ‘SQLD 최종 정리강의 2편’과 관련된 내용입니다. 관련 영상 링크 : https://www.youtube.com/watch?v=PjCSvexo3Ow 19. 윈도우 함수 ★★★ ROWS, RANGE 결과 값 차이점 순위함수 RANK : 동일 점수, 중복 건너뜀 (1등, 2등, 2등, 4등) DENSE_RANK : 동일 점수, 중복 건너뛰지 X (1등, 2등, 2등, 3등) ROW_NUMBER : 고유 점수...","categories": ["SQL"],
         "tags": ["SQL","SQLD","자격증"],
         "url": "/sql/SQLD-92/",
         "teaser": null
