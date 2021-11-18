@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-17T10:08:46+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Manager Mwohye</title><subtitle></subtitle><author><name>매니저 뭐해</name></author><entry><title type="html">[SQLD 최종오답노트] 과목 2 - SQL 기본 및 활용</title><link href="http://localhost:4000/sql/SQLD-99/" rel="alternate" type="text/html" title="[SQLD 최종오답노트] 과목 2 - SQL 기본 및 활용" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-11-24T03:01:27+09:00</updated><id>http://localhost:4000/sql/SQLD-99</id><content type="html" xml:base="http://localhost:4000/sql/SQLD-99/">&lt;p&gt; &lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-18T12:20:16+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Manager Mwohye</title><subtitle></subtitle><author><name>매니저 뭐해</name></author><entry><title type="html">[SQLD/개정] 오답노트 과목 2 - SQL 기본 및 활용</title><link href="http://localhost:4000/sqld/SQLD-99/" rel="alternate" type="text/html" title="[SQLD/개정] 오답노트 과목 2 - SQL 기본 및 활용" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-11-24T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-99</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-99/">&lt;p&gt; &lt;/p&gt;
 &lt;h1 id=&quot;1장-sql-기본&quot;&gt;1장. SQL 기본&lt;/h1&gt;
 
 &lt;h3 id=&quot;비절차적--절차적-데이터-조작어-dml&quot;&gt;비절차적 &amp;amp; 절차적 데이터 조작어 (DML)&lt;/h3&gt;
@@ -23,59 +23,7 @@
 &lt;h1 id=&quot;2장-sql-활용&quot;&gt;2장. SQL 활용&lt;/h1&gt;
 
 &lt;p&gt; &lt;/p&gt;
-&lt;h1 id=&quot;3장-sql-최적화-기본-원리&quot;&gt;3장. SQL 최적화 기본 원리&lt;/h1&gt;</content><author><name>매니저 뭐해</name></author><category term="SQL" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  1장. SQL 기본</summary></entry><entry><title type="html">SQL - FOREIGN KEY에 의한 명령어 정리 (CASCADE, SET NULL)</title><link href="http://localhost:4000/sql/SQLD-11/" rel="alternate" type="text/html" title="SQL - FOREIGN KEY에 의한 명령어 정리 (CASCADE, SET NULL)" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-27T03:01:27+09:00</updated><id>http://localhost:4000/sql/SQLD-11</id><content type="html" xml:base="http://localhost:4000/sql/SQLD-11/">&lt;h3 id=&quot;foreign-key에-의한-actions&quot;&gt;FOREIGN KEY에 의한 ACTIONS&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ON DELETE&lt;/code&gt; 부모 테이블의 행이 삭제될 때 자식 테이블에 일어나는 일들
-    &lt;ul&gt;
-      &lt;li&gt;CASDADE : 부모 삭제 시 자식도 삭제&lt;/li&gt;
-      &lt;li&gt;SET NULL : 부모 삭제 시 자식은 NULL로 설정&lt;/li&gt;
-      &lt;li&gt;SET DEFAULT : 부모 삭제 시 자식은 기본값 설정&lt;/li&gt;
-      &lt;li&gt;RESTRICT : 자식이 없는 경우만 부모 삭제&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ON INSERT&lt;/code&gt; 자식 테이블의 행이 입력될 때 부모 테이블 행과 관련하여 처리하는 일들
-    &lt;ul&gt;
-      &lt;li&gt;AUTOMATIC : 부모가 없을 때 부모 입력 후 자식 입력&lt;/li&gt;
-      &lt;li&gt;SET NULL : 부모가 없을 때 자식의 FK를 NULL로 입력&lt;/li&gt;
-      &lt;li&gt;SET DEFAULT : 부모가 없을 때 자식의 FK를 기본값 설정&lt;/li&gt;
-      &lt;li&gt;DEPENDENT : 입력하려는 값이 부모의 PK에 있는 경우에만 입력 가능하게 설정&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;cascade와-set-null&quot;&gt;CASCADE와 SET NULL&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;ON DELETE CASCADE
-    &lt;ul&gt;
-      &lt;li&gt;부모 테이블에서 PRIMARY 값이 삭제될 경우, 하위 테이블의 REFERENCE 값이 삭제&lt;/li&gt;
-      &lt;li&gt;이 경우, REFERENCE 값 뿐만 아니라 관련 투플(행)이 함께 삭제됨&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;ON UPDATE CASCADE
-    &lt;ul&gt;
-      &lt;li&gt;부모 테이블에서 PRIMARY 값이 수정될 경우, 하위 테이블의 REFERENCE 값이 상위 테이블의 수정 값을 가져옴&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;ON DELETE SET NULL &amp;amp; ON UPDATE SET NULL
-    &lt;ul&gt;
-      &lt;li&gt;부모 테이블에서 PRIMARY 값이 수정 또는 삭제될 경우, 하위 테이블의 REFERENCE 값이 NULL로 변경&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이름이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; 
-  &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;INTEGER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;PRIMARY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;KEY&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;INTEGER&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-  &lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;INTEGER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;PRIMARY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;KEY&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;INTEGER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;REFERENCES&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DELETE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;CASCADE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-  &lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;INTEGER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;PRIMARY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;KEY&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;INTEGER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;REFERENCES&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DELETE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SET&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;NULL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>매니저 뭐해</name></author><category term="SQL" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">FOREIGN KEY에 의한 ACTIONS</summary></entry><entry><title type="html">SQLD 정리(2/4) - 2과목 1장, SQL 기본</title><link href="http://localhost:4000/sql/SQLD-2/" rel="alternate" type="text/html" title="SQLD 정리(2/4) - 2과목 1장, SQL 기본" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-27T03:01:27+09:00</updated><id>http://localhost:4000/sql/SQLD-2</id><content type="html" xml:base="http://localhost:4000/sql/SQLD-2/">&lt;p&gt; &lt;/p&gt;
+&lt;h1 id=&quot;3장-sql-최적화-기본-원리&quot;&gt;3장. SQL 최적화 기본 원리&lt;/h1&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  1장. SQL 기본</summary></entry><entry><title type="html">[SQLD/개정] 요약 정리(2/4) - 2과목 1장, SQL 기본</title><link href="http://localhost:4000/sqld/SQLD-2/" rel="alternate" type="text/html" title="[SQLD/개정] 요약 정리(2/4) - 2과목 1장, SQL 기본" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-24T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-2</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-2/">&lt;p&gt; &lt;/p&gt;
 &lt;h1 id=&quot;제-1절-관계형-데이터베이스-개요&quot;&gt;제 1절. 관계형 데이터베이스 개요&lt;/h1&gt;
 
 &lt;h2 id=&quot;데이터베이스&quot;&gt;데이터베이스&lt;/h2&gt;
@@ -713,7 +661,7 @@
   &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;구매정보&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;B&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;고객번호&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;B&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;고객번호&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;이름&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;등급&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;HAVING&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;COUNT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;B&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;구매번호&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>매니저 뭐해</name></author><category term="SQL" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  제 1절. 관계형 데이터베이스 개요</summary></entry><entry><title type="html">SQL 정리(3/4) - 2과목 2장, SQL 활용</title><link href="http://localhost:4000/sql/SQLD-3/" rel="alternate" type="text/html" title="SQL 정리(3/4) - 2과목 2장, SQL 활용" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-27T03:01:27+09:00</updated><id>http://localhost:4000/sql/SQLD-3</id><content type="html" xml:base="http://localhost:4000/sql/SQLD-3/">&lt;p&gt; &lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  제 1절. 관계형 데이터베이스 개요</summary></entry><entry><title type="html">[SQLD/개정] 요약 정리(3/4) - 2과목 2장, SQL 활용</title><link href="http://localhost:4000/sqld/SQLD-3/" rel="alternate" type="text/html" title="[SQLD/개정] 요약 정리(3/4) - 2과목 2장, SQL 활용" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-25T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-3</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-3/">&lt;p&gt; &lt;/p&gt;
 &lt;h2 id=&quot;제-1절-표준-조인&quot;&gt;제 1절. 표준 조인&lt;/h2&gt;
 
 &lt;h3 id=&quot;standard-sql&quot;&gt;STANDARD SQL&lt;/h3&gt;
@@ -771,12 +719,64 @@
 
 &lt;h2 id=&quot;제-8절-절차형-sql&quot;&gt;제 8절. 절차형 SQL&lt;/h2&gt;
 
-&lt;p&gt;광고매체ID, MIN(광고시작일자)&lt;/p&gt;</content><author><name>매니저 뭐해</name></author><category term="SQL" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  제 1절. 표준 조인</summary></entry><entry><title type="html">SQL 정리(4/4) - 2과목 3장, SQL 최적화 기본 원리</title><link href="http://localhost:4000/sql/SQLD-4/" rel="alternate" type="text/html" title="SQL 정리(4/4) - 2과목 3장, SQL 최적화 기본 원리" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-27T03:01:27+09:00</updated><id>http://localhost:4000/sql/SQLD-4</id><content type="html" xml:base="http://localhost:4000/sql/SQLD-4/">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;광고매체ID, MIN(광고시작일자)&lt;/p&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  제 1절. 표준 조인</summary></entry><entry><title type="html">[SQLD/개정] 요약 정리(4/4) - 2과목 3장, SQL 최적화 기본 원리</title><link href="http://localhost:4000/sqld/SQLD-4/" rel="alternate" type="text/html" title="[SQLD/개정] 요약 정리(4/4) - 2과목 3장, SQL 최적화 기본 원리" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-26T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-4</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-4/">&lt;p&gt; &lt;/p&gt;
 &lt;h2 id=&quot;제-1절-옵티마이저와-실행계획&quot;&gt;제 1절. 옵티마이저와 실행계획&lt;/h2&gt;
 
 &lt;h2 id=&quot;제-2절-인덱스-기본&quot;&gt;제 2절. 인덱스 기본&lt;/h2&gt;
 
-&lt;h2 id=&quot;제-3절-조인-수행-원리&quot;&gt;제 3절. 조인 수행 원리&lt;/h2&gt;</content><author><name>매니저 뭐해</name></author><category term="SQL" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  제 1절. 옵티마이저와 실행계획</summary></entry><entry><title type="html">SQLD (개정) 최종 정리강의 노트 (1/2)</title><link href="http://localhost:4000/sql/SQLD-91/" rel="alternate" type="text/html" title="SQLD (개정) 최종 정리강의 노트 (1/2)" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-27T03:01:27+09:00</updated><id>http://localhost:4000/sql/SQLD-91</id><content type="html" xml:base="http://localhost:4000/sql/SQLD-91/">&lt;blockquote&gt;
+&lt;h2 id=&quot;제-3절-조인-수행-원리&quot;&gt;제 3절. 조인 수행 원리&lt;/h2&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  제 1절. 옵티마이저와 실행계획</summary></entry><entry><title type="html">[SQLD/개정] FOREIGN KEY에 의한 명령어 정리 (CASCADE, SET NULL)</title><link href="http://localhost:4000/sqld/SQLD-5/" rel="alternate" type="text/html" title="[SQLD/개정] FOREIGN KEY에 의한 명령어 정리 (CASCADE, SET NULL)" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-27T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-5</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-5/">&lt;h3 id=&quot;foreign-key에-의한-actions&quot;&gt;FOREIGN KEY에 의한 ACTIONS&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ON DELETE&lt;/code&gt; 부모 테이블의 행이 삭제될 때 자식 테이블에 일어나는 일들
+    &lt;ul&gt;
+      &lt;li&gt;CASDADE : 부모 삭제 시 자식도 삭제&lt;/li&gt;
+      &lt;li&gt;SET NULL : 부모 삭제 시 자식은 NULL로 설정&lt;/li&gt;
+      &lt;li&gt;SET DEFAULT : 부모 삭제 시 자식은 기본값 설정&lt;/li&gt;
+      &lt;li&gt;RESTRICT : 자식이 없는 경우만 부모 삭제&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ON INSERT&lt;/code&gt; 자식 테이블의 행이 입력될 때 부모 테이블 행과 관련하여 처리하는 일들
+    &lt;ul&gt;
+      &lt;li&gt;AUTOMATIC : 부모가 없을 때 부모 입력 후 자식 입력&lt;/li&gt;
+      &lt;li&gt;SET NULL : 부모가 없을 때 자식의 FK를 NULL로 입력&lt;/li&gt;
+      &lt;li&gt;SET DEFAULT : 부모가 없을 때 자식의 FK를 기본값 설정&lt;/li&gt;
+      &lt;li&gt;DEPENDENT : 입력하려는 값이 부모의 PK에 있는 경우에만 입력 가능하게 설정&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;cascade와-set-null&quot;&gt;CASCADE와 SET NULL&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;ON DELETE CASCADE
+    &lt;ul&gt;
+      &lt;li&gt;부모 테이블에서 PRIMARY 값이 삭제될 경우, 하위 테이블의 REFERENCE 값이 삭제&lt;/li&gt;
+      &lt;li&gt;이 경우, REFERENCE 값 뿐만 아니라 관련 투플(행)이 함께 삭제됨&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ON UPDATE CASCADE
+    &lt;ul&gt;
+      &lt;li&gt;부모 테이블에서 PRIMARY 값이 수정될 경우, 하위 테이블의 REFERENCE 값이 상위 테이블의 수정 값을 가져옴&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ON DELETE SET NULL &amp;amp; ON UPDATE SET NULL
+    &lt;ul&gt;
+      &lt;li&gt;부모 테이블에서 PRIMARY 값이 수정 또는 삭제될 경우, 하위 테이블의 REFERENCE 값이 NULL로 변경&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이름이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; 
+  &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;INTEGER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;PRIMARY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;KEY&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;INTEGER&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;INTEGER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;PRIMARY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;KEY&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;INTEGER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;REFERENCES&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DELETE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;CASCADE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;INTEGER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;PRIMARY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;KEY&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;INTEGER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;REFERENCES&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DELETE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SET&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;NULL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">FOREIGN KEY에 의한 ACTIONS</summary></entry><entry><title type="html">[SQLD/개정] 최종 정리 노트 - 김강민SQLD (1/2)</title><link href="http://localhost:4000/sqld/SQLD-91/" rel="alternate" type="text/html" title="[SQLD/개정] 최종 정리 노트 - 김강민SQLD (1/2)" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-28T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-91</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-91/">&lt;blockquote&gt;
   &lt;p&gt;해당 내용은 김강민 SQLD ‘SQLD 최종 정리강의 1편’과 관련된 내용입니다.&lt;br /&gt;
 관련 영상 링크 : https://www.youtube.com/watch?v=PC3ypt_VGWI&amp;amp;t&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1073,7 +1073,7 @@ TCL – COMMIT, ROLLBACK, SAVEPOINT&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;ROLL UP : 소그룹간의 소계 계산
     &lt;ul&gt;
-      &lt;li&gt;ROLL(A,B) != ROLL(B,A) – 인수의 순서에 영향을 받음&lt;/li&gt;
+      &lt;li&gt;ROLLUP(A,B) != ROLLUP(B,A) – 인수의 순서에 영향을 받음&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;CUBE : 결합 가능한 모든 값에 대한 집계 생성
@@ -1082,7 +1082,7 @@ TCL – COMMIT, ROLLBACK, SAVEPOINT&lt;/p&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;GROUPING SETS : 원하는 부분의 소계만 추출&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>매니저 뭐해</name></author><category term="SQL" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">해당 내용은 김강민 SQLD ‘SQLD 최종 정리강의 1편’과 관련된 내용입니다. 관련 영상 링크 : https://www.youtube.com/watch?v=PC3ypt_VGWI&amp;amp;t</summary></entry><entry><title type="html">SQLD (개정) 최종 정리강의 노트 (2/2)</title><link href="http://localhost:4000/sql/SQLD-92/" rel="alternate" type="text/html" title="SQLD (개정) 최종 정리강의 노트 (2/2)" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-27T03:01:27+09:00</updated><id>http://localhost:4000/sql/SQLD-92</id><content type="html" xml:base="http://localhost:4000/sql/SQLD-92/">&lt;blockquote&gt;
+&lt;/ul&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">해당 내용은 김강민 SQLD ‘SQLD 최종 정리강의 1편’과 관련된 내용입니다. 관련 영상 링크 : https://www.youtube.com/watch?v=PC3ypt_VGWI&amp;amp;t</summary></entry><entry><title type="html">[SQLD/개정] 최종 정리 노트 - 김강민SQLD (2/2)</title><link href="http://localhost:4000/sqld/SQLD-92/" rel="alternate" type="text/html" title="[SQLD/개정] 최종 정리 노트 - 김강민SQLD (2/2)" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-29T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-92</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-92/">&lt;blockquote&gt;
   &lt;p&gt;해당 내용은 김강민 SQLD ‘SQLD 최종 정리강의 2편’과 관련된 내용입니다.&lt;br /&gt;
 관련 영상 링크 : https://www.youtube.com/watch?v=PjCSvexo3Ow&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1373,7 +1373,7 @@ TCL – COMMIT, ROLLBACK, SAVEPOINT&lt;/p&gt;
   &lt;li&gt;정규화&lt;/li&gt;
   &lt;li&gt;PIVOT, UNPIVOT&lt;/li&gt;
   &lt;li&gt;MERGE&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>매니저 뭐해</name></author><category term="SQL" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">해당 내용은 김강민 SQLD ‘SQLD 최종 정리강의 2편’과 관련된 내용입니다. 관련 영상 링크 : https://www.youtube.com/watch?v=PjCSvexo3Ow</summary></entry><entry><title type="html">[SQLD 최종오답노트] 과목 1 - 데이터의 이해</title><link href="http://localhost:4000/sql/SQLD-98/" rel="alternate" type="text/html" title="[SQLD 최종오답노트] 과목 1 - 데이터의 이해" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-11-24T03:01:27+09:00</updated><id>http://localhost:4000/sql/SQLD-98</id><content type="html" xml:base="http://localhost:4000/sql/SQLD-98/">&lt;p&gt; &lt;/p&gt;
+&lt;/ul&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">해당 내용은 김강민 SQLD ‘SQLD 최종 정리강의 2편’과 관련된 내용입니다. 관련 영상 링크 : https://www.youtube.com/watch?v=PjCSvexo3Ow</summary></entry><entry><title type="html">[SQLD/개정] 오답노트 과목 1 - 데이터의 이해</title><link href="http://localhost:4000/sqld/SQLD-98/" rel="alternate" type="text/html" title="[SQLD/개정] 오답노트 과목 1 - 데이터의 이해" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-11-24T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-98</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-98/">&lt;p&gt; &lt;/p&gt;
 &lt;h1 id=&quot;1장-데이터-모델링의-이해&quot;&gt;1장. 데이터 모델링의 이해&lt;/h1&gt;
 
 &lt;p&gt; &lt;/p&gt;
@@ -1428,7 +1428,7 @@ TCL – COMMIT, ROLLBACK, SAVEPOINT&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;트랜젝션은 항상 전체를 통합하여 처리함&lt;/li&gt;
   &lt;li&gt;슈퍼-서브타입을 하나 테이블로 통합 시 &lt;strong&gt;조인이 감소&lt;/strong&gt;되어 성능이 우수함&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>매니저 뭐해</name></author><category term="SQL" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  1장. 데이터 모델링의 이해</summary></entry><entry><title type="html">SQLD 정리(1/4) - 1과목, 데이터 모델링의 이해 및 데이터 모델과 성능</title><link href="http://localhost:4000/sql/SQLD-1/" rel="alternate" type="text/html" title="SQLD 정리(1/4) - 1과목, 데이터 모델링의 이해 및 데이터 모델과 성능" /><published>2020-10-22T00:00:00+09:00</published><updated>2021-10-23T03:01:27+09:00</updated><id>http://localhost:4000/sql/SQLD-1</id><content type="html" xml:base="http://localhost:4000/sql/SQLD-1/">&lt;p&gt; &lt;/p&gt;
+&lt;/ul&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  1장. 데이터 모델링의 이해</summary></entry><entry><title type="html">[SQLD/개정] 요약 정리(1/4) - 1과목, 데이터 모델링의 이해 및 데이터 모델과 성능</title><link href="http://localhost:4000/sqld/SQLD-1/" rel="alternate" type="text/html" title="[SQLD/개정] 요약 정리(1/4) - 1과목, 데이터 모델링의 이해 및 데이터 모델과 성능" /><published>2020-10-22T00:00:00+09:00</published><updated>2021-10-23T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-1</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-1/">&lt;p&gt; &lt;/p&gt;
 &lt;h1 id=&quot;제-1절-데이터모델의-이해&quot;&gt;제 1절. 데이터모델의 이해&lt;/h1&gt;
 
 &lt;h2 id=&quot;1-모델링의-이해&quot;&gt;1. 모델링의 이해&lt;/h2&gt;
@@ -1532,4 +1532,4 @@ TCL – COMMIT, ROLLBACK, SAVEPOINT&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;유무형에 따른 분류 : 유형 엔터티, 개념 엔터티, 사건 엔터티&lt;/li&gt;
   &lt;li&gt;발생시점에 따른 분류 : 기본 엔터티, 중심 엔터티, 행위 엔터티&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>매니저 뭐해</name></author><category term="SQL" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  제 1절. 데이터모델의 이해</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  제 1절. 데이터모델의 이해</summary></entry></feed>

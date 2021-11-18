@@ -4,7 +4,7 @@
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>http://localhost:4000/sql/SQLD-99/</loc>
+        <loc>http://localhost:4000/sqld/SQLD-99/</loc>
         
         <lastmod>2020-10-26T00:00:00+09:00</lastmod>
         
@@ -20,7 +20,7 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/sql/SQLD-98/</loc>
+        <loc>http://localhost:4000/sqld/SQLD-98/</loc>
         
         <lastmod>2020-10-26T00:00:00+09:00</lastmod>
         
@@ -36,7 +36,7 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/sql/SQLD-92/</loc>
+        <loc>http://localhost:4000/sqld/SQLD-92/</loc>
         
         <lastmod>2020-10-26T00:00:00+09:00</lastmod>
         
@@ -52,7 +52,7 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/sql/SQLD-91/</loc>
+        <loc>http://localhost:4000/sqld/SQLD-91/</loc>
         
         <lastmod>2020-10-26T00:00:00+09:00</lastmod>
         
@@ -68,7 +68,7 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/sql/SQLD-4/</loc>
+        <loc>http://localhost:4000/sqld/SQLD-5/</loc>
         
         <lastmod>2020-10-26T00:00:00+09:00</lastmod>
         
@@ -84,7 +84,7 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/sql/SQLD-3/</loc>
+        <loc>http://localhost:4000/sqld/SQLD-4/</loc>
         
         <lastmod>2020-10-26T00:00:00+09:00</lastmod>
         
@@ -100,7 +100,7 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/sql/SQLD-2/</loc>
+        <loc>http://localhost:4000/sqld/SQLD-3/</loc>
         
         <lastmod>2020-10-26T00:00:00+09:00</lastmod>
         
@@ -116,7 +116,7 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/sql/SQLD-11/</loc>
+        <loc>http://localhost:4000/sqld/SQLD-2/</loc>
         
         <lastmod>2020-10-26T00:00:00+09:00</lastmod>
         
@@ -132,7 +132,7 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/sql/SQLD-1/</loc>
+        <loc>http://localhost:4000/sqld/SQLD-1/</loc>
         
         <lastmod>2020-10-22T00:00:00+09:00</lastmod>
         

@@ -1,12 +1,14 @@
 # main links
 main:
+  - title: "SQLD"
+    url: /sqld/
+  # - title: "공략/리세마라"
+  #   url: /reset/
+  # - title: "About"
+  #   url: /
   # - title: "Quick-Start Guide"
-    # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Worklog"
-    url: /worklog/
-  - title: "Book Review"
-    url: /book/
+  # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sitemap"
   #   url: /sitemap/
+    # - title: "Worklog"
+  #   url: /worklog/
