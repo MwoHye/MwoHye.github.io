@@ -1,4 +1,93 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-21T23:17:30+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Manager Mwohye</title><subtitle></subtitle><author><name>매니저 뭐해</name></author><entry><title type="html">[SQLD] 11/20 43회 시험 가답안 총정리 (정답, 과목, 문제)</title><link href="http://localhost:4000/sqld/SQLD-43th/" rel="alternate" type="text/html" title="[SQLD] 11/20 43회 시험 가답안 총정리 (정답, 과목, 문제)" /><published>2020-11-21T00:00:00+09:00</published><updated>2021-11-21T17:27:00+09:00</updated><id>http://localhost:4000/sqld/SQLD-43th</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-43th/">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-18T16:40:31+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Manager Mwohye</title><subtitle></subtitle><author><name>매니저 뭐해</name></author><entry><title type="html">[SQLD/개정] 비전공자 후기, 합격과 불합격의 공부 방법 차이, 무료 강의 추천</title><link href="http://localhost:4000/sqld/SQLD-review/" rel="alternate" type="text/html" title="[SQLD/개정] 비전공자 후기, 합격과 불합격의 공부 방법 차이, 무료 강의 추천" /><published>2020-12-18T00:00:00+09:00</published><updated>2021-12-18T15:15:00+09:00</updated><id>http://localhost:4000/sqld/SQLD-review</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-review/">&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;서
+11월에 응시했던 SQLD 결과가&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;서론&quot;&gt;서론&lt;/h3&gt;
+&lt;h3 id=&quot;응시-스펙&quot;&gt;응시 스펙&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;전공&lt;/li&gt;
+  &lt;li&gt;자격증&lt;/li&gt;
+  &lt;li&gt;직장인&lt;/li&gt;
+  &lt;li&gt;응시 경험 (2년전 이후 2번째)&lt;/li&gt;
+  &lt;li&gt;공부 시간 2주&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;공부-방법&quot;&gt;공부 방법&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;2주 전 : 책 집중 리딩, 생각하며 이해하며 읽기, 내용 정리하며 이해 안된 이론들은 다른 블로그를 찾아보며 다양한 설명을 통해 복합적으로 이해해보려고 노력함. 공부한 내용은 블로그에 정리해가며 배운 내용에 대한 이해 하려고 함.SQL을 직접 다운로드 하지는 않았고, 원래 있던 VS CODE에서 SQL을 입력해보는 연습을 해봤음.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;2주-1주 사이 : 요약 강의 들음. 사실상 여기에서 문제 다 나옴. 여기서 말씀해주신 내용들을 받아쓰기하듯 정리했고, 대충 넘겨주신 부분들은 이론책/요약책/내 블로그에 있는 내용을 모두 봐가면서 내가 이해할 수 있는 수준까지는 정리하려고 노력함. 진짜 요약 강의 강추함.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1주 : 문제 풀기&amp;amp;오답노트 올인. 노랭이 1번 풀고 빅 좌절, 2번부터는 틀린 부분 블로그에 정리해가면서 풀었음.
+3번째는 시간이 없어서 틀린 부분위주로 빠르게 정답 오답 왔다가며 봤음.
+자신감이 어느정도 생겨 예전 기출 문제 찾아서 풀었을때 많이 틀려서 좌절했음. 해석도 충분하지 않았음. 여기 나온 정보를 공부하기에는 품이 너무 많이 들어가 그냥 포기했음&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;전날 : 동창회 갔음. 불안한 마음은 계속되었지만 그간 정리한 내용만 한 번씩 보고, 3번째 가장 많이 틀리던 부분 위주로 기출 돌리고 잠. 단톡방 들어갔음.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;당일 : 나는 ~에서 봤음.
+아침 8시에 스타벅스에 도착했고, 커피랑 간식 기분좋게 든든하게 먹으면서 오답노트랑 유투브 노트 돌림. 시험장에는 입장 막기 직전에 들어감. 어차피 일찍 가봤자 환경 그렇게 좋지도 않고 춥고 더워서 불편함. 시간 지나면 공부도 못함. 늦게 들어가도 어차피 30분 뒤에 시험 보는거라 다른 사람한테 민폐 아님. 대신 주목 받는 것이 살짝 부끄러워 하는 사람은 못할 듯. 그리고 들어가서는 빠른 속도로 바로 시험 준비맨으로 깔끔하게 세팅할 수 있도록 겉 옷을 미리 벗어서 가지고 들어갔고, 신분증 &amp;amp; 펜은 손에 들고 들어가서 빠른 속도로 부시럭거림을 최소화하고, 화장실 가서 손도 한 번 씻고 와서 앉았다. 머리속에 미리 생각하던대로 움직여보니까 5분이 채 안걸렸다. 슈퍼 수험생맨 같은 멘트지만 나는 정신사나운걸 싫어하다보니 이게 도움이 되었다.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;본인 수험번호 자리 찾는건 문제 없었는데 답안지 작성할때 내 시험번호를 몰라서 불러주셨다. 내가 잘못 적었을 까봐 엄청 무서웠고 초조했음. 내년에 SQLP도 도전해보고 싶어서 다음에는 수험표 그냥 인쇄해서 가져가려고 함.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;시험은 조금 특이하다 싶은 문제가 있긴 했지만,
+모두 고르시오 문제도 없었고 노랭이에서 문제 및 보기가 그대로 나온 문제도 있었다.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;합격과-불합격의-공부-차이--이해하려는-노오력&quot;&gt;합격과 불합격의 공부 차이 : 이해하려는 노오력&lt;/h3&gt;
+
+&lt;p&gt;나는 1단원을 책으로 정말 흥미롭게 봤다.
+1단원과 2단원을 따로 생각하고, 각각 단원의 연관성을 고려해본 적이 없는데
+1단원을 열심히 읽고 나니 다른 단원 내용들도 이해가 잘 가는 것을 느낄 수 있었다.&lt;/p&gt;
+
+&lt;h3 id=&quot;sqld-추천--비추천-공부방법&quot;&gt;SQLD 추천 &amp;amp; 비추천 공부방법&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;기본서 정독하기 &amp;amp; 가볍게 훑기&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;노랭이 책 풀기 (최소 2회 이상)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;단톡방 들어가기 
+단톡방은 시험 정보를 빠르게 알기 위해 들어갔었다.
+시험장에서 나온 직후부터 바로 생생한 시험 난이도 후기와, 시험지와 정답을 공유하지 않는 SQLD 특성상 다같이 머리를 모아가며 내 점수를 추정해야 하기 때문이다.
+방 마다 분위기가 다를 수 있겠으나, 내가 시험본 43회 시험때는 오답을 너무 당당히 정답이라고 우기는 분들이 있어서 채팅방에 혼란만 주고 별로 도움이 되지 않았다. 시험 본 직후 30분까지만 열심히 보고 이후에는 카페에서 대부분의 정보를 받았다.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;요약본 보기&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;요약본 만들기
+손으로 안하고 컴퓨터로 하니 어디서든 쉽게 볼수 있어서 좋았다.
+내 노트에 오류가 있어서 몇 번 수정했다.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;오답노트 만들기&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;유투브 강의 보기
+    &lt;ul&gt;
+      &lt;li&gt;아저씨, 여자, 정리 잘해주시는 분 중 세번째 추천&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;SQL 직접 컴퓨터로 입력해보기&lt;/li&gt;
+  &lt;li&gt;자기만의 요약된 정보 가지기&lt;/li&gt;
+  &lt;li&gt;카페 가입하기&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  서 11월에 응시했던 SQLD 결과가</summary></entry><entry><title type="html">[SQLD/개정] 11/20 43회 시험 가답안 총정리 (정답, 과목, 문제)</title><link href="http://localhost:4000/sqld/SQLD-43th/" rel="alternate" type="text/html" title="[SQLD/개정] 11/20 43회 시험 가답안 총정리 (정답, 과목, 문제)" /><published>2020-11-21T00:00:00+09:00</published><updated>2021-11-30T17:27:00+09:00</updated><id>http://localhost:4000/sqld/SQLD-43th</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-43th/">&lt;ul&gt;
   &lt;li&gt;지속적으로 업데이트 됩니다.&lt;/li&gt;
   &lt;li&gt;공유가 문제가 되지 않는 선에서 시험 본 분들만 이해하실 수 있도록 최소한의 키워드만 기재했습니다.&lt;/li&gt;
 &lt;/ul&gt;
@@ -10,14 +99,27 @@
   &lt;li&gt;제 43회 SQL개발자(SQLD)&lt;/li&gt;
   &lt;li&gt;11월 20일 토요일&lt;/li&gt;
   &lt;li&gt;10:00am - 11:30am&lt;/li&gt;
-  &lt;li&gt;결과발표 : 2021.12.17&lt;/li&gt;
+  &lt;li&gt;결과발표 : 2021.12.17 https://www.dataq.or.kr/www/main.do&lt;/li&gt;
   &lt;li&gt;전체 문제 : 40문제 객관식 + 10문제 주관식&lt;/li&gt;
   &lt;li&gt;합격 기준 : 60점 이상&lt;/li&gt;
   &lt;li&gt;과락 기준 : 1과목(10문제), 또는 2과목(40문제) 40점 미만&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt; &lt;/p&gt;
-&lt;h1 id=&quot;객관식&quot;&gt;객관식&lt;/h1&gt;
+&lt;h1 id=&quot;발표-전-점수-미리-보는-법&quot;&gt;발표 전 점수 미리 보는 법&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;로그인 &amp;gt; 마이페이지 &amp;gt; 시험결과 페이지 이동 https://www.dataq.or.kr/www/mypage/accept/result.do&lt;/li&gt;
+  &lt;li&gt;개발자 모드 실행 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CTRL + SHIFT + J&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;요소(element) 클릭&lt;/li&gt;
+  &lt;li&gt;CTRL + F로 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;aplySeq&lt;/code&gt; 검색&lt;/li&gt;
+  &lt;li&gt;스크롤을 오른쪽으로 넘기면 각 시험결과마다 부여된 6자리 넘버를 확인하실 수 있습니다. (ex : “aplySeq”:xxxxxx)&lt;/li&gt;
+  &lt;li&gt;해당 6자리 넘버를 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://www.dataq.or.kr/www/mypage/accept/score.do?aplySeq=xxxxxx&lt;/code&gt;에 붙여 넣기&lt;/li&gt;
+  &lt;li&gt;시험결과 페이지가 나오면 정상입니다. (반영 아직 안 되었을 경우 점수 0점으로 나옴)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h1 id=&quot;sqld-43회-객관식-답안-리스트&quot;&gt;SQLD 43회 객관식 답안 리스트&lt;/h1&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -31,33 +133,33 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;Q1&lt;/td&gt;
+      &lt;td&gt;1과목&lt;/td&gt;
+      &lt;td&gt;제2정규화&lt;/td&gt;
+      &lt;td&gt;완료된 정규화 상태 고르기&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Q2&lt;/td&gt;
       &lt;td&gt;2과목&lt;/td&gt;
       &lt;td&gt;2번 (1,NULL), (2,NULL)&lt;/td&gt;
       &lt;td&gt;-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Q2&lt;/td&gt;
+      &lt;td&gt;Q3&lt;/td&gt;
       &lt;td&gt;2과목&lt;/td&gt;
       &lt;td&gt;999/100&lt;/td&gt;
       &lt;td&gt;-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Q3&lt;/td&gt;
+      &lt;td&gt;Q4&lt;/td&gt;
       &lt;td&gt;2과목&lt;/td&gt;
       &lt;td&gt;2번 LAG(col1, 1,0)&lt;/td&gt;
       &lt;td&gt;-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Q4&lt;/td&gt;
-      &lt;td&gt;1과목&lt;/td&gt;
-      &lt;td&gt;1번 중복테이블&lt;/td&gt;
-      &lt;td&gt;원격조인&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
       &lt;td&gt;Q5&lt;/td&gt;
       &lt;td&gt;1과목&lt;/td&gt;
-      &lt;td&gt;제2정규화&lt;/td&gt;
-      &lt;td&gt;정규화고르기&lt;/td&gt;
+      &lt;td&gt;1번 중복테이블&lt;/td&gt;
+      &lt;td&gt;원격 조인, 이력테이블 추가 등 나온 문제&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Q6&lt;/td&gt;
@@ -74,62 +176,62 @@
     &lt;tr&gt;
       &lt;td&gt;Q8&lt;/td&gt;
       &lt;td&gt;2과목&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;안내방송 나온 문제&lt;/td&gt;
+      &lt;td&gt;1번 서비스이용&lt;/td&gt;
+      &lt;td&gt;정규화문제, 납부 청구 나온 문제&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Q9&lt;/td&gt;
       &lt;td&gt;2과목&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;WINDOWING 나온 문제&lt;/td&gt;
+      &lt;td&gt;2번&lt;/td&gt;
+      &lt;td&gt;3학점 이상 학번, 안내방송 나온 문제&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Q10&lt;/td&gt;
+      &lt;td&gt;2과목&lt;/td&gt;
+      &lt;td&gt;1번 Groupby절에서 쓸 수 없다&lt;/td&gt;
+      &lt;td&gt;윈도우함수 범위레코드 지정&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Q11&lt;/td&gt;
       &lt;td&gt;2과목&lt;/td&gt;
       &lt;td&gt;1번 LEVEL1&lt;/td&gt;
       &lt;td&gt;계층형 질의&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Q11&lt;/td&gt;
+      &lt;td&gt;Q12&lt;/td&gt;
       &lt;td&gt;2과목&lt;/td&gt;
       &lt;td&gt;2번 RANGE&lt;/td&gt;
-      &lt;td&gt;ROW, RANGE 보기&lt;/td&gt;
+      &lt;td&gt;ROW, RANGE 보기 나온 문제&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Q12&lt;/td&gt;
+      &lt;td&gt;Q13&lt;/td&gt;
       &lt;td&gt;2과목&lt;/td&gt;
       &lt;td&gt;3번 6&lt;/td&gt;
       &lt;td&gt;보기 3,4,6,8&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Q13&lt;/td&gt;
+      &lt;td&gt;Q14&lt;/td&gt;
       &lt;td&gt;2과목&lt;/td&gt;
       &lt;td&gt;3번 UNIQUE NULL 다수 포함&lt;/td&gt;
       &lt;td&gt;-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Q14&lt;/td&gt;
+      &lt;td&gt;Q15&lt;/td&gt;
       &lt;td&gt;1과목&lt;/td&gt;
       &lt;td&gt;1번 로우체이닝 관련 설명&lt;/td&gt;
       &lt;td&gt;-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Q15&lt;/td&gt;
+      &lt;td&gt;Q16&lt;/td&gt;
       &lt;td&gt;2과목&lt;/td&gt;
       &lt;td&gt;%@_% escape @&lt;/td&gt;
       &lt;td&gt;-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Q16&lt;/td&gt;
+      &lt;td&gt;Q17&lt;/td&gt;
       &lt;td&gt;2과목&lt;/td&gt;
       &lt;td&gt;3번&lt;/td&gt;
       &lt;td&gt;TRIGGER 관련&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Q17&lt;/td&gt;
-      &lt;td&gt;2과목&lt;/td&gt;
-      &lt;td&gt;서비스이용&lt;/td&gt;
-      &lt;td&gt;납부청구&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Q18&lt;/td&gt;
@@ -146,14 +248,14 @@
     &lt;tr&gt;
       &lt;td&gt;Q20&lt;/td&gt;
       &lt;td&gt;2과목&lt;/td&gt;
-      &lt;td&gt;2번 ‘의 마력’&lt;/td&gt;
-      &lt;td&gt;ROUND, CEIL 등&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Q21&lt;/td&gt;
       &lt;td&gt;2과목&lt;/td&gt;
-      &lt;td&gt;10, 9, 9&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;1번 10, 9, 9&lt;/td&gt;
+      &lt;td&gt;‘의 마력’, CEIL, ROUND, TRUNCT&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Q22&lt;/td&gt;
@@ -176,7 +278,7 @@
     &lt;tr&gt;
       &lt;td&gt;Q25&lt;/td&gt;
       &lt;td&gt;2과목&lt;/td&gt;
-      &lt;td&gt;VVIP, VIP 순으로 나온 보기&lt;/td&gt;
+      &lt;td&gt;1번 VVIP, VIP 행순&lt;/td&gt;
       &lt;td&gt;-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -212,7 +314,7 @@
     &lt;tr&gt;
       &lt;td&gt;Q31&lt;/td&gt;
       &lt;td&gt;2과목&lt;/td&gt;
-      &lt;td&gt;1번 C413&lt;/td&gt;
+      &lt;td&gt;1번 C314&lt;/td&gt;
       &lt;td&gt;-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -267,7 +369,7 @@
 &lt;/table&gt;
 
 &lt;p&gt; &lt;/p&gt;
-&lt;h1 id=&quot;43회-sqld-주관식&quot;&gt;43회 SQLD 주관식&lt;/h1&gt;
+&lt;h1 id=&quot;sqld-43회-주관식-답안-리스트&quot;&gt;SQLD 43회 주관식 답안 리스트&lt;/h1&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -295,7 +397,7 @@
       &lt;td&gt;Q3&lt;/td&gt;
       &lt;td&gt;2과목&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;NULLIF&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;NVL, IFNULL&lt;/td&gt;
+      &lt;td&gt;NVL, NVLIF, IFNULL&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Q4&lt;/td&gt;
@@ -337,648 +439,10 @@
       &lt;td&gt;Q10&lt;/td&gt;
       &lt;td&gt;2과목&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;GROUP BY position&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;GROUP BY POSITION&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">지속적으로 업데이트 됩니다. 공유가 문제가 되지 않는 선에서 시험 본 분들만 이해하실 수 있도록 최소한의 키워드만 기재했습니다.</summary></entry><entry><title type="html">[SQLD/개정] 요약 정리(2/4) - 2과목 1장, SQL 기본</title><link href="http://localhost:4000/sqld/SQLD-2/" rel="alternate" type="text/html" title="[SQLD/개정] 요약 정리(2/4) - 2과목 1장, SQL 기본" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-24T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-2</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-2/">&lt;p&gt; &lt;/p&gt;
-&lt;h1 id=&quot;제-1절-관계형-데이터베이스-개요&quot;&gt;제 1절. 관계형 데이터베이스 개요&lt;/h1&gt;
-
-&lt;h2 id=&quot;데이터베이스&quot;&gt;데이터베이스&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;“특정 기업이나 조직 또는 개인이 필요에 의해 데이터를 일정한 형태로 저장한 것”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;sql&quot;&gt;SQL&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;“관계형데이터베이스에서 데이터 정의 데이터 조작, 데이터 제어를 하기 위해 사용하는 언어”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;1-데이터-조작어-dml--select-insert-delete-update-merge&quot;&gt;1. 데이터 조작어 (DML) : SELECT, INSERT, DELETE, UPDATE, MERGE&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;DB 내 데이터에 대한 조회, 검색, 변형을 위한 명령어 (M : Manipulation)&lt;/li&gt;
-  &lt;li&gt;Not Auto Commit, Rollback 가능, 테이블 row단위로 데이터 컨트롤&lt;/li&gt;
-  &lt;li&gt;비절차적 데이터 조작어, 데이터 부속어 라고도 표현&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;2-데이터-정의어-ddl--create-alter-drop-rename-truncate&quot;&gt;2. 데이터 정의어 (DDL) : CREATE, ALTER, DROP, RENAME, TRUNCATE&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;스키마, 도메인, 테이블, 뷰, 인덱스 등을 정의, 변경, 제거. 데이터 구조와 관련된 명령어&lt;/li&gt;
-  &lt;li&gt;Auto Commit, Rollback 불가, 테이블 단위 컨트롤&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;3-데이터-제어어-dcl--grant-revoke&quot;&gt;3. 데이터 제어어 (DCL) : GRANT, REVOKE&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;DB에 접근하고 객체 사용 권한을 주거나 회수하는 명령어&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;4-트랜젝션-제어어-tcl--commit-rollback-savepoint&quot;&gt;4. 트랜젝션 제어어 (TCL) : COMMIT, ROLLBACK, SAVEPOINT&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;DML에 의해 조작된 결과를 작업단위(트랜젝션)별로 제어하는 명령어&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt; &lt;/p&gt;
-&lt;h1 id=&quot;제-2절-ddl&quot;&gt;제 2절. DDL&lt;/h1&gt;
-
-&lt;h2 id=&quot;데이터-유형&quot;&gt;데이터 유형&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;CHARACTER(s), VARCHAR(s), NUMERIC, DATE&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;1-create-table&quot;&gt;1. CREATE TABLE&lt;/h2&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼명&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;CHAR&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;NOT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;NULL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;err&quot;&gt;칼럼명&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;NULL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;CONSTRAINT&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;제약조건이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;PRIMARY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;KEY&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PLAYER_ID&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;CONSTRAINT&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;제약조건이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FOREIGN&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;KEY&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_ID&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;REFERENCES&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TEAM&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_ID&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;2-alter-table&quot;&gt;2. ALTER TABLE&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;SQL은 여러 컬럼/테이블은 하나의 명령으로 작업할 수 X (Oracle에서는 가능)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;ALTER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ADD&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;칼럼명&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;VARCHAR&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;80&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;-- 추가&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;ALTER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALTER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;COLUMN&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;칼럼명&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;VARCHAR&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;NOT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;NULL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;-- 속성명변경&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;ALTER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DROP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;COLUMN&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;칼럼명&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;-- 속성 삭제&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;테이블을 생성한 후에 제약조건을 추가하고 싶은 경우에는 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ALTER TABLE&lt;/code&gt; 과 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ADD&lt;/code&gt; 추가&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;ALTER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ADD&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;CONSTRAINT&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;제약조건이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;PRIMARY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;KEY&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;col_1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;col_2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;3-rename-table&quot;&gt;3. RENAME TABLE&lt;/h2&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;ALTER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;RENAME&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;COLUMN&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;현재컬럼명&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TO&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;바꿀컬럼명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;4-drop-table&quot;&gt;4. DROP TABLE&lt;/h2&gt;
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;DROP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;ALTER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DROP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;COLUMN&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;컬럼이름&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-  &lt;li&gt;테이블 이름이나 컬럼 삭제, ROLLBACK 불가&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;5-truncate-table&quot;&gt;5. TRUNCATE TABLE&lt;/h2&gt;
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;TRUNCATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이름이름&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DROP&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;COLUMM&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;컬럼이름&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-  &lt;li&gt;테이블 형태 유지, 데이터만 제거&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;-제약조건constraint&quot;&gt;+ 제약조건(CONSTRAINT)&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;NOT NULL&lt;/li&gt;
-  &lt;li&gt;UNIQUE : UNIQUE는 NULL 값을 가질 수 있다&lt;/li&gt;
-  &lt;li&gt;PRIMARY KEY : NOT NULL &amp;amp; UNIQUE
-    &lt;ul&gt;
-      &lt;li&gt;테이블에 PK를 복수로 생성할 수 없다.&lt;/li&gt;
-      &lt;li&gt;하지만 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CONSTRAINT&lt;/code&gt;를 활용하여 속성들을 괄호 안에 설정하면 생성할 수 있다. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;PRIMARY KEY(col_1, col_2)&lt;/code&gt;&lt;/li&gt;
-      &lt;li&gt;즉 기본 키를 구성하는 칼럼은 복수일 수 있지만, 기본 키가 복수일 수는 없다.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;FOREIGN KEY : 참조무결성 제약&lt;/li&gt;
-  &lt;li&gt;CHECK : 해당 조건을 만족하는 값으로만 입력 제한, 데이터의 무결성 유지를 위해 특정 컬럼에 설정&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt; &lt;/p&gt;
-&lt;h1 id=&quot;제-4절-tcl&quot;&gt;제 4절. TCL&lt;/h1&gt;
-
-&lt;h2 id=&quot;트렌젝션--데이터베이스의-논리적-연산-단위&quot;&gt;트렌젝션 : “데이터베이스의 논리적 연산 단위”&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;COMMIT, ROLLBACK, SAVEPOINT&lt;/li&gt;
-  &lt;li&gt;하나의 트렌젝션에는 하나 이상의 SQL 문장이 포함.&lt;/li&gt;
-  &lt;li&gt;분리될 수 없는 한 개 이상의 DB 조작 -&amp;gt; 전부 적용 or 전부 취소&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;트렌젝션의-4가지-특징&quot;&gt;트렌젝션의 4가지 특징&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;원자성 : all or nothing&lt;/li&gt;
-  &lt;li&gt;일관성 : 트렌젝션 전에 괜찮으면 이후에도 다른 잘 못이 있으면 안 된다.&lt;/li&gt;
-  &lt;li&gt;고립성 : 트렌젝션 중에는 다른 트렌젝션의 영향을 받지 X&lt;/li&gt;
-  &lt;li&gt;지속성 : 트렌젝션 실행되고 나면 갱신된 내용이 영구적으로 저장&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;1-commit&quot;&gt;1. COMMIT&lt;/h2&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;UPDATE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SET&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HEIGHT&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;COMMIT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;--oracle와-sql-server의-commit-명령어-차이&quot;&gt;+ ★ Oracle와 SQL server의 COMMIT 명령어 차이&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Oracle
-    &lt;ul&gt;
-      &lt;li&gt;DCL : AUTO COMMIT&lt;/li&gt;
-      &lt;li&gt;DDL/DML : 수동 COMMIT&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;SQL Server
-    &lt;ul&gt;
-      &lt;li&gt;AUTO COMMIT MODE = TRUE : DCL/DDL/DML AUTO COMMIT&lt;/li&gt;
-      &lt;li&gt;AUTO COMMIT MODE = FALSE : DCL/DDL/DML 수동 COMMIT&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;2-rollback&quot;&gt;2. ROLLBACK&lt;/h2&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;UPDATE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SET&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HEIGHT&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;ROLLBACK&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;BEGIN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TRAN&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;UPDATE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SET&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HEIGHT&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;ROLLBACK&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;3-savepoint0--현-시점에서-savepoint까지-트렌젝션-일부를-rollback&quot;&gt;3. SAVEPOINT0 : 현 시점에서 SAVEPOINT까지 트렌젝션 일부를 ROLLBACK&lt;/h2&gt;
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;SAVEPOINT&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;세이브포인트이름&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;ROLLBACK&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TO&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;세이브프인트이름&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt; &lt;/p&gt;
-&lt;h1 id=&quot;제-5절-where절--내가-원하는-자료만을-검색해보자&quot;&gt;제 5절. WHERE절 : 내가 원하는 자료만을 검색해보자&lt;/h1&gt;
-
-&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;비교 연산자, SQL 연산자, 논리 연산자, 부정 비교 연산자, 부정 SQL 연산자&lt;/li&gt;
-  &lt;li&gt;괄호로 묶은 연산이 가장 먼저 처리됨&lt;/li&gt;
-  &lt;li&gt;처리 순서 : 부정 연산자 -&amp;gt; 비교 연산자 -&amp;gt; 논리 연산자&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;sql-연산자&quot;&gt;SQL 연산자&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;IN 연산자, LIKE 연산자, BETWEEN a AND b 연산자, IS NULL 연산자&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;1-in-list--리스트에-있는-값-중-어느-하나라도-일치&quot;&gt;1. IN (list) : 리스트에 있는 값 중 어느 하나라도 일치&lt;/h3&gt;
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ENAME&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;JOB&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;DEPTNO&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;EMP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;JOB&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;DEPTNO&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;IN&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'MANAGER'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'CLERK'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;2-like-비교문자열--비교문자열과-형태가-일치&quot;&gt;2. LIKE 비교문자열 : 비교문자열과 형태가 일치&lt;/h3&gt;
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;E_POSITION&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HEIGHT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;E_POSITION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;LIKE&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'MF'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;E_POSITION&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HEIGHT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLATER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;NAME&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;LIKE&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'김%'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-  &lt;li&gt;와일드카드
-    &lt;ul&gt;
-      &lt;li&gt;% : 0개 이상의 어떤 문자&lt;/li&gt;
-      &lt;li&gt;_ : 1개의 단일 문자
-\&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;3-between-a-and-b--a-이상-b-이하&quot;&gt;3. BETWEEN a AND b : a 이상 b 이하&lt;/h3&gt;
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;NAME&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HEIGHT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HEIGHT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BETWEEN&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;170&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;180&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;4-is-null--is-not-null-&quot;&gt;4. IS NULL / IS NOT NULL ★★★&lt;/h3&gt;
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;선수이름&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;E_POSITION&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;포지션&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;E_POSITION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;IS&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;NULL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-  &lt;li&gt;NULL 사칙연산 연산 : NULL 리턴&lt;/li&gt;
-  &lt;li&gt;NULL의 비교 연산 : FALSE 리턴&lt;/li&gt;
-  &lt;li&gt;VARCHAR2 데이터에 ‘‘를 INSERT하면 자동적으로 NULL로 바뀜 (56p 37번)
-    &lt;ul&gt;
-      &lt;li&gt;ORACLE은 공백 문자열이 저장되는걸 허락하지 않음&lt;/li&gt;
-      &lt;li&gt;즉 ‘‘를 INSERT 한 뒤 ‘‘를 조회하면 ORACLE에서는 조회X, SQL에서는 조회 O&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;-sql자격검정시험-57p-38번-문제&quot;&gt;+ SQL자격검정시험 57p 38번 문제&lt;/h3&gt;
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SUM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;매출금액&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;월별매출&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; 
-&lt;span class=&quot;err&quot;&gt;년&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2014&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;월&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BETWEEN&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;11&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;12&lt;/span&gt; 
-&lt;span class=&quot;k&quot;&gt;OR&lt;/span&gt; 
-&lt;span class=&quot;err&quot;&gt;년&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2015&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;월&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BETWEEN&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;01&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;03&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-  &lt;li&gt;2014년 11월부터 2015년 3월까지 매출금액 합계를 출력하기&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;-sql자격검정시험-64p-47번-문제&quot;&gt;+ SQL자격검정시험 64p 47번 문제&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;0과 NULL을 포함한 나눗셈
-    &lt;ul&gt;
-      &lt;li&gt;숫자/0 -&amp;gt; error&lt;/li&gt;
-      &lt;li&gt;숫자/NULL -&amp;gt; NULL&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt; &lt;/p&gt;
-&lt;h1 id=&quot;제-6절-함수&quot;&gt;제 6절. 함수&lt;/h1&gt;
-
-&lt;h2 id=&quot;1-단일-행-함수와-다중-행-함수&quot;&gt;1. 단일 행 함수와 다중 행 함수&lt;/h2&gt;
-
-&lt;h3 id=&quot;단일-행-함수&quot;&gt;단일 행 함수&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;추출되는 행마다 작업을 수행하고, 각 행마다 하나의 결과를 반환&lt;/li&gt;
-  &lt;li&gt;SELECT, WHERE, ORDER BY, UPDATE의 SET 절에 사용 가능&lt;/li&gt;
-  &lt;li&gt;데이터 타입 변경 가능, 중첩 사용 가능&lt;/li&gt;
-  &lt;li&gt;그룹(집계) 함수를 제외하면 대부분은 단일 행 함수&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;다중-행-함수&quot;&gt;다중 행 함수&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;여러 개의 행이 입력되고, 하나의 값을 변환&lt;/li&gt;
-  &lt;li&gt;ex : SUM, AVG, MAX, MIN, COUNT …&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;내장-함수--입력되는-값이-많아도-출력은-하나만-m1&quot;&gt;내장 함수 : 입력되는 값이 많아도 출력은 하나만 (M:1)&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;LOWER, UPPER, ASCII, CONCAT, SUBSTR, LEN, LTRIM(RTRIM,TRIM), RTRIM&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;문자형-함수&quot;&gt;문자형 함수&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;REPLACE(C1, CHR(10)) : 줄바꿈을 empty string으로 바꿔줌 (60p 41번)&lt;/p&gt;
-
-    &lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;
-    
-  &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;LENGTH&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;c1&quot;&gt;-- 3&lt;/span&gt;
-
-  &lt;span class=&quot;err&quot;&gt;↓&lt;/span&gt; 
-  &lt;span class=&quot;k&quot;&gt;REPLACE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;CHR&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
-  &lt;span class=&quot;err&quot;&gt;↓&lt;/span&gt; 
-
-  &lt;span class=&quot;n&quot;&gt;AA&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;LENGTH&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;c1&quot;&gt;-- 2&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;숫자형-함수&quot;&gt;숫자형 함수&lt;/h2&gt;
-&lt;h2 id=&quot;날짜형-함수&quot;&gt;날짜형 함수&lt;/h2&gt;
-&lt;h2 id=&quot;변환형-함수&quot;&gt;변환형 함수&lt;/h2&gt;
-
-&lt;h2 id=&quot;case-함수--if-then-else-61p-43번&quot;&gt;CASE 함수 : IF-THEN-ELSE (61p 43번)&lt;/h2&gt;
-
-&lt;h3 id=&quot;1-simple_case_expression&quot;&gt;1. SIMPLE_CASE_EXPRESSION&lt;/h3&gt;
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LOC&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;CASE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LOC&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;WHEN&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'NEW YORK'&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;THEN&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'EAST'&lt;/span&gt;
-      &lt;span class=&quot;k&quot;&gt;ELSE&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'ETC'&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;END&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;AREA&lt;/span&gt;
-  &lt;span class=&quot;n&quot;&gt;TROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;DEPT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;2-searched_case_expression&quot;&gt;2. SEARCHED_CASE_EXPRESSION&lt;/h3&gt;
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LOC&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;CASE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;WHEN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LOC&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'NEW YORK'&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;THEN&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'EAST'&lt;/span&gt;
-      &lt;span class=&quot;k&quot;&gt;ELSE&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'ETC'&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;END&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;AREA&lt;/span&gt;
-  &lt;span class=&quot;n&quot;&gt;TROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;DEPT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;null-함수-&quot;&gt;NULL 함수 ★★★★&lt;/h2&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ENAME&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;COMM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;COALESCE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;COMM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;SAL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;COAL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;EMP&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;1-nvl-oracle--isnull-sql-server&quot;&gt;1. NVL (Oracle) / ISNULL (SQL Server)&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;NVL : Null Value의 약어&lt;/li&gt;
-  &lt;li&gt;표현식1 결과 값이 NULL이면 표현식2 리턴&lt;/li&gt;
-  &lt;li&gt;NVL(K,0) : K 컬럼이 NULL이면 0으로 바꿈&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;2-nvl2&quot;&gt;2. NVL2&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;NVL2(K,1,-1) : 컬럼이 NULL이 아니면 1을, NULL이면 -1 리턴&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;2-nullif-63p-47번&quot;&gt;2. NULLIF (63p 47번)&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;두 값이 같으면 NULL을, 같지 않으면 첫 번쨰 값을 반환&lt;/li&gt;
-  &lt;li&gt;NVL(exp1, exp2) : exp1 = exp2 이면 NULL / exp1 != exp2 이면 exp1 리턴&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;3-coalesce표현식1-표현식-2-&quot;&gt;3. COALESCE(표현식1, 표현식 2 …)&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;COALESCE의 사전적 정의 : “큰 덩어리로 합치다”&lt;/li&gt;
-  &lt;li&gt;여러 표현식에서 행 기준으로 NULL이 아닌 최초의 표현식을 리턴&lt;/li&gt;
-  &lt;li&gt;모든 표현식이 NULL이면 NULL 리턴&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;COALESCE(Phone, tel) : 휴대폰번호가 있으면 휴대폰 번호를, 일반 전화번호가 있으면 tel을 리턴하여 취합할 수 있음&lt;/p&gt;
-
-    &lt;table&gt;
-      &lt;thead&gt;
-        &lt;tr&gt;
-          &lt;th&gt;A&lt;/th&gt;
-          &lt;th&gt;B&lt;/th&gt;
-          &lt;th&gt;COALESCE(A,B)&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;10&lt;/td&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;10&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;20&lt;/td&gt;
-          &lt;td&gt;20&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt;10&lt;/td&gt;
-          &lt;td&gt;20&lt;/td&gt;
-          &lt;td&gt;10&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt; &lt;/td&gt;
-          &lt;td&gt;NULL&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;-sql자격검정시험-64p-48번-문제--coalesce-연산자&quot;&gt;+ SQL자격검정시험 64p 48번 문제 : COALESCE 연산자&lt;/h3&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;C1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;C2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;C3&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
-  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;----|----|----| &lt;/span&gt;
-  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;  &lt;span class=&quot;n&quot;&gt;coalesce&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;→&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
-  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;    &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;  &lt;span class=&quot;n&quot;&gt;coalesce&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;→&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;
-  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;    &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;    &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;  &lt;span class=&quot;n&quot;&gt;coalesce&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;→&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;
-
-  &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SUM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;COALESCE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;  
-  &lt;span class=&quot;c1&quot;&gt;-- 1+2+3 = 6&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt; &lt;/p&gt;
-&lt;h1 id=&quot;제-7절-group-by-having-절&quot;&gt;제 7절. GROUP BY, HAVING 절&lt;/h1&gt;
-&lt;p&gt;https://ggmouse.tistory.com/423&lt;/p&gt;
-
-&lt;h3 id=&quot;1-group-by&quot;&gt;1. GROUP BY&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;item&lt;/th&gt;
-      &lt;th&gt;cost&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;pencil&lt;/td&gt;
-      &lt;td&gt;100&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;knife&lt;/td&gt;
-      &lt;td&gt;200&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;pencil&lt;/td&gt;
-      &lt;td&gt;150&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;pencil&lt;/td&gt;
-      &lt;td&gt;130&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;knife&lt;/td&gt;
-      &lt;td&gt;190&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SUM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cost&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;sum&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;--결과 &lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;   &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cost&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;--------|------|&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pencil&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;390&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;knife&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;380&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;2-roll-up&quot;&gt;2. ROLL UP&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;GROUP BY 후 오는 항목을을 오른쪽에서 왼쪽으로 묶어 집계&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;store&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
-  &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
-  &lt;span class=&quot;k&quot;&gt;SUM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cnt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;all_cnt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
-  &lt;span class=&quot;k&quot;&gt;SUM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cost&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;all_cost&lt;/span&gt; 
-&lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sql_test_a&lt;/span&gt; 
-&lt;span class=&quot;k&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ROLLUP&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;store&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;3-grouping&quot;&gt;3. GROUPING&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;소계 컬럼이 null로 보이는게 거슬린다면 사용&lt;/li&gt;
-  &lt;li&gt;결과가 NULL일때 1, 아닐 때 0을 반환&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; 
-  &lt;span class=&quot;k&quot;&gt;GROUPING&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;store&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;grp_store&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
-  &lt;span class=&quot;n&quot;&gt;store&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;GROUPING&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;grp_item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;SUM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cnt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;all_cnt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;SUM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cost&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;all_cost&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ROLLUP&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;store&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;4-cube&quot;&gt;4. CUBE&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;GROUP BY 항목들 간 &lt;strong&gt;모든 경우의 수&lt;/strong&gt;로 그룹을 생성&lt;/li&gt;
-  &lt;li&gt;ROLL UP 보다 더 상세한 결과를 냄&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;5-grouping-sets&quot;&gt;5. GROUPING SETS&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;특정 항목에 대한 집계&lt;/li&gt;
-  &lt;li&gt;UNION ALL과 같은 결과&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;store&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
-  &lt;span class=&quot;k&quot;&gt;SUM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cnt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;all_cnt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
-  &lt;span class=&quot;k&quot;&gt;SUM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cost&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;all_cost&lt;/span&gt; 
-&lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sql_test_a&lt;/span&gt; 
-&lt;span class=&quot;k&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;GROUPING&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SETS&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;store&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;그룹-묶음-방식의-차이&quot;&gt;그룹 묶음 방식의 차이&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;ROLL(a,b,c) : (a,b,c) / (a,b) / (a) / (b) / (c) / ()&lt;/li&gt;
-  &lt;li&gt;CUBE(a,b,c) : (a,b,c) / (a,b) / (a,c) / (b,c) / (a) / (b) / (c) / ()&lt;/li&gt;
-  &lt;li&gt;GROUPING SETS(a,b,c) : (a) / (b) / (c) / ()&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt; &lt;/p&gt;
-&lt;h1 id=&quot;제-8절-order-by&quot;&gt;제 8절. ORDER BY&lt;/h1&gt;
-
-&lt;h2 id=&quot;select-문장-실행-순서-71p-59번&quot;&gt;SELECT 문장 실행 순서 (71p 59번)&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;입력순서&lt;/th&gt;
-      &lt;th&gt;실행순서&lt;/th&gt;
-      &lt;th&gt;절&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;5&lt;/td&gt;
-      &lt;td&gt;SELECT&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;FROM&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;3&lt;/td&gt;
-      &lt;td&gt;2&lt;/td&gt;
-      &lt;td&gt;WHERE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;4&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
-      &lt;td&gt;GROUP BY&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;5&lt;/td&gt;
-      &lt;td&gt;4&lt;/td&gt;
-      &lt;td&gt;HAVING&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;6&lt;/td&gt;
-      &lt;td&gt;6&lt;/td&gt;
-      &lt;td&gt;ORDER BY&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;FROM : 대상 테이블을 참조&lt;/li&gt;
-  &lt;li&gt;WHERE : 대상 데이터가 아닌 것 제외&lt;/li&gt;
-  &lt;li&gt;GROUP BY : ROW를 소그릅&lt;/li&gt;
-  &lt;li&gt;HAVING : 그루핑된 조건에 맞는 것만 출력&lt;/li&gt;
-  &lt;li&gt;FROM : 데이터 값을 출력/계산&lt;/li&gt;
-  &lt;li&gt;ORDER BY : 데이터 정렬&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;top-n-쿼리&quot;&gt;TOP N 쿼리&lt;/h2&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TOP&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;팀명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;승리건수&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;팀별성적&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ORDER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;승리건수&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DESC&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;-- 승리건수가 동일한 팀 중 하나만 출력&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TOP&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;WITH&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TIES&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;팀명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;승리건수&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;팀별성적&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ORDER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;승리건수&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DESC&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;-- 승리건수가 동일한 팀이 있다면 함께 출력&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt; &lt;/p&gt;
-&lt;h1 id=&quot;제-9절-조인&quot;&gt;제 9절. 조인&lt;/h1&gt;
-
-&lt;h2 id=&quot;1-equi-join&quot;&gt;1. EQUI JOIN&lt;/h2&gt;
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;-- 아래 두 구문은 같은 EQUI JOIN의 예시&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PLAYER_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;선수명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TEAM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;팀명&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TEAM&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_ID&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TEAM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_ID&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PLAYER_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;선수명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TEAM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;팀명&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TEAM&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TEAM&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_ID&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TEAM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_ID&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-  &lt;li&gt;’=’ 연산자에 의해서만 수행됨&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;2-non-equi-join&quot;&gt;2. Non EQUI JOIN&lt;/h2&gt;
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;-- 아래 두 구문은 같은 Non EQUI JOIN의 예시&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PLAYER_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;선수명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;POSITION&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;포지션&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;REGION_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;연고지&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;팀명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;STADIUM_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;구장명&lt;/span&gt; 
-&lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TEAM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;STADIUM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;S&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_ID&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_ID&lt;/span&gt; 
-  &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;STADIUM_ID&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;STATIUM_ID&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;ORDER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;선수명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PLAYER_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;선수명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;POSITION&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;포지션&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;REGION_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;연고지&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;팀명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;STADIUM_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;구장명&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;P&lt;/span&gt; 
-  &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TEAM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_ID&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_ID&lt;/span&gt; 
-  &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;STADIUM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;S&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;STADIUM_ID&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;STADIUM_ID&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;ORDER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;선수명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-  &lt;li&gt;두 테이블 간 칼럼 값들이 서로 정확하게 일치하지 않을 때 사용&lt;/li&gt;
-  &lt;li&gt;’=’을 JOIN을 위한 연산자로 사용하지 않음 (BETWEEN, LIKE, &amp;gt;=, &amp;lt;=, &amp;gt;, &amp;lt; 등을 사용)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;-sql자격검정시험-72p-62번-문제&quot;&gt;+ SQL자격검정시험 72p 62번 문제&lt;/h3&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;영화&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;영화명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;배우&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;배우명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;출연&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;출연료&lt;/span&gt; 
-&lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;영화&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;배우&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;출연&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;영화&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;영화번호&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;출연&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;영화번호&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;배우&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;배우번호&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;출연&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;배우번호&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;출연&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;출연료&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8888&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;영화&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;영화명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;배우&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;배우명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;출연&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;출연료&lt;/span&gt; 
-&lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;출연&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;배우&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;출연&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;배우번호&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;배우&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;배우번호&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;영화&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;출연&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;영화번호&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;영화&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;영화번호&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;출연료&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8888&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;-sql자격검정시험-74p-64번-문제&quot;&gt;+ SQL자격검정시험 74p 64번 문제&lt;/h3&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;EMP_TBL&lt;/span&gt;           &lt;span class=&quot;n&quot;&gt;RULE_TBL&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;EMPNO&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ENAME&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;RULE_NO&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;RULE&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;-------|-------| |---------|------|&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1000&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;SMITH&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;       &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;   &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1050&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ALLEN&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;       &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1100&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;SCOTT&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;COUNT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;EMP_TBL&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;RULE_TBL&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;B&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ENAME&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;LIKE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;B&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;RULE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;RULE 테이블과 아래처럼 EMP 테이블과의 연결이 2번 행해지기 때문에 총 4건을 찾을 수 있음&lt;/p&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ENAME&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;LIKE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;-- 2개 (SMITH, SCOTT)&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ENAME&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;LIKE&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;-- 2개 (SMITH, SCOTT)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;-sql자격검정시험-74p-64번-문제-1&quot;&gt;+ SQL자격검정시험 74p 64번 문제&lt;/h3&gt;
-
-&lt;p&gt;구매이력이 있는 고객 중 구매횟수가 3회 이상인 고객의 이름과 등급 출력하기&lt;/p&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;-- 테이블 스키마 정보&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;-- 고객(고객번호(PK), 이름, 등급)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;-- 구매정보(구매번호(PK), 구매금액, 고객번호(FK))&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;이름&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;등급&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;고객&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;구매정보&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;B&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;고객번호&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;B&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;고객번호&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;이름&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;등급&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;HAVING&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;COUNT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;B&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;구매번호&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  제 1절. 관계형 데이터베이스 개요</summary></entry><entry><title type="html">[SQLD/개정] 요약 정리(3/4) - 2과목 2장, SQL 활용</title><link href="http://localhost:4000/sqld/SQLD-3/" rel="alternate" type="text/html" title="[SQLD/개정] 요약 정리(3/4) - 2과목 2장, SQL 활용" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-25T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-3</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-3/">&lt;p&gt; &lt;/p&gt;
+&lt;/table&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">지속적으로 업데이트 됩니다. 공유가 문제가 되지 않는 선에서 시험 본 분들만 이해하실 수 있도록 최소한의 키워드만 기재했습니다.</summary></entry><entry><title type="html">[SQLD/개정] 요약 정리(3/4) - 2과목 2장, SQL 활용</title><link href="http://localhost:4000/sqld/SQLD-3/" rel="alternate" type="text/html" title="[SQLD/개정] 요약 정리(3/4) - 2과목 2장, SQL 활용" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-25T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-3</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-3/">&lt;p&gt; &lt;/p&gt;
 &lt;h2 id=&quot;제-1절-표준-조인&quot;&gt;제 1절. 표준 조인&lt;/h2&gt;
 
 &lt;h3 id=&quot;standard-sql&quot;&gt;STANDARD SQL&lt;/h3&gt;
@@ -1770,108 +1234,642 @@ TCL – COMMIT, ROLLBACK, SAVEPOINT&lt;/p&gt;
 &lt;h1 id=&quot;2장-sql-활용&quot;&gt;2장. SQL 활용&lt;/h1&gt;
 
 &lt;p&gt; &lt;/p&gt;
-&lt;h1 id=&quot;3장-sql-최적화-기본-원리&quot;&gt;3장. SQL 최적화 기본 원리&lt;/h1&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  1장. SQL 기본</summary></entry><entry><title type="html">[SQLD/개정] 요약 정리(1/4) - 1과목, 데이터 모델링의 이해 및 데이터 모델과 성능</title><link href="http://localhost:4000/sqld/SQLD-1/" rel="alternate" type="text/html" title="[SQLD/개정] 요약 정리(1/4) - 1과목, 데이터 모델링의 이해 및 데이터 모델과 성능" /><published>2020-10-22T00:00:00+09:00</published><updated>2021-10-23T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-1</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-1/">&lt;p&gt; &lt;/p&gt;
-&lt;h1 id=&quot;제-1절-데이터모델의-이해&quot;&gt;제 1절. 데이터모델의 이해&lt;/h1&gt;
+&lt;h1 id=&quot;3장-sql-최적화-기본-원리&quot;&gt;3장. SQL 최적화 기본 원리&lt;/h1&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  1장. SQL 기본</summary></entry><entry><title type="html">[SQLD/개정] 요약 정리(2/4) - 2과목 1장, SQL 기본</title><link href="http://localhost:4000/sqld/SQLD-2/" rel="alternate" type="text/html" title="[SQLD/개정] 요약 정리(2/4) - 2과목 1장, SQL 기본" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-24T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-2</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-2/">&lt;p&gt; &lt;/p&gt;
+&lt;h1 id=&quot;제-1절-관계형-데이터베이스-개요&quot;&gt;제 1절. 관계형 데이터베이스 개요&lt;/h1&gt;
 
-&lt;h2 id=&quot;1-모델링의-이해&quot;&gt;1. 모델링의 이해&lt;/h2&gt;
+&lt;h2 id=&quot;데이터베이스&quot;&gt;데이터베이스&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;모델링 : “다양한 현상을 표기법에 의해 표기하는 것”&lt;/li&gt;
-  &lt;li&gt;특징 3가지 : 추상화, 단순화, 명확화&lt;/li&gt;
-  &lt;li&gt;관점 3가지 : 데이터 관점, 프로세스 관점, 상관 관점&lt;/li&gt;
+  &lt;li&gt;“특정 기업이나 조직 또는 개인이 필요에 의해 데이터를 일정한 형태로 저장한 것”&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;2-데이터모델의-기본개념이해&quot;&gt;2. 데이터모델의 기본개념이해&lt;/h2&gt;
+&lt;h2 id=&quot;sql&quot;&gt;SQL&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;데이터모델링 : “정보시스템을 구축하기 위한 데이터관점의 업무분석기법”&lt;/li&gt;
-  &lt;li&gt;데이터모델이 제공하는 기능
+  &lt;li&gt;“관계형데이터베이스에서 데이터 정의 데이터 조작, 데이터 제어를 하기 위해 사용하는 언어”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;1-데이터-조작어-dml--select-insert-delete-update-merge&quot;&gt;1. 데이터 조작어 (DML) : SELECT, INSERT, DELETE, UPDATE, MERGE&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;DB 내 데이터에 대한 조회, 검색, 변형을 위한 명령어 (M : Manipulation)&lt;/li&gt;
+  &lt;li&gt;Not Auto Commit, Rollback 가능, 테이블 row단위로 데이터 컨트롤&lt;/li&gt;
+  &lt;li&gt;비절차적 데이터 조작어, 데이터 부속어 라고도 표현&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2-데이터-정의어-ddl--create-alter-drop-rename-truncate&quot;&gt;2. 데이터 정의어 (DDL) : CREATE, ALTER, DROP, RENAME, TRUNCATE&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;스키마, 도메인, 테이블, 뷰, 인덱스 등을 정의, 변경, 제거. 데이터 구조와 관련된 명령어&lt;/li&gt;
+  &lt;li&gt;Auto Commit, Rollback 불가, 테이블 단위 컨트롤&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;3-데이터-제어어-dcl--grant-revoke&quot;&gt;3. 데이터 제어어 (DCL) : GRANT, REVOKE&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;DB에 접근하고 객체 사용 권한을 주거나 회수하는 명령어&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;4-트랜젝션-제어어-tcl--commit-rollback-savepoint&quot;&gt;4. 트랜젝션 제어어 (TCL) : COMMIT, ROLLBACK, SAVEPOINT&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;DML에 의해 조작된 결과를 작업단위(트랜젝션)별로 제어하는 명령어&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h1 id=&quot;제-2절-ddl&quot;&gt;제 2절. DDL&lt;/h1&gt;
+
+&lt;h2 id=&quot;데이터-유형&quot;&gt;데이터 유형&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;CHARACTER(s), VARCHAR(s), NUMERIC, DATE&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;1-create-table&quot;&gt;1. CREATE TABLE&lt;/h2&gt;
+
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼명&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;CHAR&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;NOT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;NULL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;err&quot;&gt;칼럼명&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;DATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;NULL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;CONSTRAINT&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;제약조건이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;PRIMARY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;KEY&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PLAYER_ID&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;CONSTRAINT&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;제약조건이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FOREIGN&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;KEY&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_ID&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;REFERENCES&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TEAM&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_ID&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;2-alter-table&quot;&gt;2. ALTER TABLE&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;SQL은 여러 컬럼/테이블은 하나의 명령으로 작업할 수 X (Oracle에서는 가능)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;ALTER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ADD&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;칼럼명&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;VARCHAR&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;80&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;-- 추가&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;ALTER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ALTER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;COLUMN&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;칼럼명&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;VARCHAR&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;NOT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;NULL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;-- 속성명변경&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;ALTER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DROP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;COLUMN&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;칼럼명&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;-- 속성 삭제&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;테이블을 생성한 후에 제약조건을 추가하고 싶은 경우에는 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ALTER TABLE&lt;/code&gt; 과 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ADD&lt;/code&gt; 추가&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;ALTER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ADD&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;CONSTRAINT&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;제약조건이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;PRIMARY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;KEY&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;col_1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;col_2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;3-rename-table&quot;&gt;3. RENAME TABLE&lt;/h2&gt;
+
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;ALTER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;RENAME&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;COLUMN&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;현재컬럼명&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TO&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;바꿀컬럼명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;4-drop-table&quot;&gt;4. DROP TABLE&lt;/h2&gt;
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;DROP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;ALTER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DROP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;COLUMN&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;컬럼이름&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;테이블 이름이나 컬럼 삭제, ROLLBACK 불가&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;5-truncate-table&quot;&gt;5. TRUNCATE TABLE&lt;/h2&gt;
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;TRUNCATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이름이름&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DROP&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;COLUMM&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;컬럼이름&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;테이블 형태 유지, 데이터만 제거&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-제약조건constraint&quot;&gt;+ 제약조건(CONSTRAINT)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;NOT NULL&lt;/li&gt;
+  &lt;li&gt;UNIQUE : UNIQUE는 NULL 값을 가질 수 있다&lt;/li&gt;
+  &lt;li&gt;PRIMARY KEY : NOT NULL &amp;amp; UNIQUE
     &lt;ul&gt;
-      &lt;li&gt;시스템 가시화, 시스템 구조와 행동 명세화, 시스템 구축의 구조화된 틀 제공&lt;/li&gt;
-      &lt;li&gt;문서화, 세부사항은 숨기는 다양한 관점 제공, 상세 수준의 표현방법 제공&lt;/li&gt;
+      &lt;li&gt;테이블에 PK를 복수로 생성할 수 없다.&lt;/li&gt;
+      &lt;li&gt;하지만 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CONSTRAINT&lt;/code&gt;를 활용하여 속성들을 괄호 안에 설정하면 생성할 수 있다. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;PRIMARY KEY(col_1, col_2)&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;즉 기본 키를 구성하는 칼럼은 복수일 수 있지만, 기본 키가 복수일 수는 없다.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;FOREIGN KEY : 참조무결성 제약&lt;/li&gt;
+  &lt;li&gt;CHECK : 해당 조건을 만족하는 값으로만 입력 제한, 데이터의 무결성 유지를 위해 특정 컬럼에 설정&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h1 id=&quot;제-4절-tcl&quot;&gt;제 4절. TCL&lt;/h1&gt;
+
+&lt;h2 id=&quot;트렌젝션--데이터베이스의-논리적-연산-단위&quot;&gt;트렌젝션 : “데이터베이스의 논리적 연산 단위”&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;COMMIT, ROLLBACK, SAVEPOINT&lt;/li&gt;
+  &lt;li&gt;하나의 트렌젝션에는 하나 이상의 SQL 문장이 포함.&lt;/li&gt;
+  &lt;li&gt;분리될 수 없는 한 개 이상의 DB 조작 -&amp;gt; 전부 적용 or 전부 취소&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;트렌젝션의-4가지-특징&quot;&gt;트렌젝션의 4가지 특징&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;원자성 : all or nothing&lt;/li&gt;
+  &lt;li&gt;일관성 : 트렌젝션 전에 괜찮으면 이후에도 다른 잘 못이 있으면 안 된다.&lt;/li&gt;
+  &lt;li&gt;고립성 : 트렌젝션 중에는 다른 트렌젝션의 영향을 받지 X&lt;/li&gt;
+  &lt;li&gt;지속성 : 트렌젝션 실행되고 나면 갱신된 내용이 영구적으로 저장&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;1-commit&quot;&gt;1. COMMIT&lt;/h2&gt;
+
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;UPDATE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SET&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HEIGHT&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;COMMIT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;--oracle와-sql-server의-commit-명령어-차이&quot;&gt;+ ★ Oracle와 SQL server의 COMMIT 명령어 차이&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Oracle
+    &lt;ul&gt;
+      &lt;li&gt;DCL : AUTO COMMIT&lt;/li&gt;
+      &lt;li&gt;DDL/DML : 수동 COMMIT&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;SQL Server
+    &lt;ul&gt;
+      &lt;li&gt;AUTO COMMIT MODE = TRUE : DCL/DDL/DML AUTO COMMIT&lt;/li&gt;
+      &lt;li&gt;AUTO COMMIT MODE = FALSE : DCL/DDL/DML 수동 COMMIT&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;2-rollback&quot;&gt;2. ROLLBACK&lt;/h2&gt;
+
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;UPDATE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SET&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HEIGHT&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;ROLLBACK&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;BEGIN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TRAN&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;UPDATE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SET&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HEIGHT&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;ROLLBACK&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;3-savepoint0--현-시점에서-savepoint까지-트렌젝션-일부를-rollback&quot;&gt;3. SAVEPOINT0 : 현 시점에서 SAVEPOINT까지 트렌젝션 일부를 ROLLBACK&lt;/h2&gt;
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;SAVEPOINT&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;세이브포인트이름&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;ROLLBACK&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TO&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;세이브프인트이름&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h1 id=&quot;제-5절-where절--내가-원하는-자료만을-검색해보자&quot;&gt;제 5절. WHERE절 : 내가 원하는 자료만을 검색해보자&lt;/h1&gt;
+
+&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;비교 연산자, SQL 연산자, 논리 연산자, 부정 비교 연산자, 부정 SQL 연산자&lt;/li&gt;
+  &lt;li&gt;괄호로 묶은 연산이 가장 먼저 처리됨&lt;/li&gt;
+  &lt;li&gt;처리 순서 : 부정 연산자 -&amp;gt; 비교 연산자 -&amp;gt; 논리 연산자&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sql-연산자&quot;&gt;SQL 연산자&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;IN 연산자, LIKE 연산자, BETWEEN a AND b 연산자, IS NULL 연산자&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;1-in-list--리스트에-있는-값-중-어느-하나라도-일치&quot;&gt;1. IN (list) : 리스트에 있는 값 중 어느 하나라도 일치&lt;/h3&gt;
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ENAME&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;JOB&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;DEPTNO&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;EMP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;JOB&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;DEPTNO&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;IN&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'MANAGER'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'CLERK'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;2-like-비교문자열--비교문자열과-형태가-일치&quot;&gt;2. LIKE 비교문자열 : 비교문자열과 형태가 일치&lt;/h3&gt;
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;E_POSITION&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HEIGHT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;E_POSITION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;LIKE&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'MF'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;E_POSITION&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HEIGHT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLATER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;NAME&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;LIKE&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'김%'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;와일드카드
+    &lt;ul&gt;
+      &lt;li&gt;% : 0개 이상의 어떤 문자&lt;/li&gt;
+      &lt;li&gt;_ : 1개의 단일 문자
+\&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;3-데이터모델링의-중요성-및-유의점&quot;&gt;3. 데이터모델링의 중요성 및 유의점&lt;/h2&gt;
+&lt;h3 id=&quot;3-between-a-and-b--a-이상-b-이하&quot;&gt;3. BETWEEN a AND b : a 이상 b 이하&lt;/h3&gt;
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;NAME&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HEIGHT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HEIGHT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BETWEEN&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;170&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;180&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;4-is-null--is-not-null-&quot;&gt;4. IS NULL / IS NOT NULL ★★★&lt;/h3&gt;
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;선수이름&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;E_POSITION&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;포지션&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;E_POSITION&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;IS&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;NULL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;ul&gt;
-  &lt;li&gt;중요성 3가지 : 파급효과, 복잡한 정보요규사항의 간결한 표현, 데이터 품질&lt;/li&gt;
-  &lt;li&gt;유의점 3가지 : 중복, 비유연성, 비일관성&lt;/li&gt;
+  &lt;li&gt;NULL 사칙연산 연산 : NULL 리턴&lt;/li&gt;
+  &lt;li&gt;NULL의 비교 연산 : FALSE 리턴&lt;/li&gt;
+  &lt;li&gt;VARCHAR2 데이터에 ‘‘를 INSERT하면 자동적으로 NULL로 바뀜 (56p 37번)
+    &lt;ul&gt;
+      &lt;li&gt;ORACLE은 공백 문자열이 저장되는걸 허락하지 않음&lt;/li&gt;
+      &lt;li&gt;즉 ‘‘를 INSERT 한 뒤 ‘‘를 조회하면 ORACLE에서는 조회X, SQL에서는 조회 O&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;4-데이터모델링의-3단계-진행&quot;&gt;4. 데이터모델링의 3단계 진행&lt;/h2&gt;
+&lt;h3 id=&quot;-sql자격검정시험-57p-38번-문제&quot;&gt;+ SQL자격검정시험 57p 38번 문제&lt;/h3&gt;
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SUM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;매출금액&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;월별매출&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; 
+&lt;span class=&quot;err&quot;&gt;년&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2014&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;월&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BETWEEN&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;11&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;12&lt;/span&gt; 
+&lt;span class=&quot;k&quot;&gt;OR&lt;/span&gt; 
+&lt;span class=&quot;err&quot;&gt;년&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2015&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;월&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BETWEEN&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;01&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;03&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;ul&gt;
-  &lt;li&gt;개념적 데이터모델링&lt;/li&gt;
-  &lt;li&gt;논리적 데이터모델링&lt;/li&gt;
-  &lt;li&gt;물리적 데이터모델링&lt;/li&gt;
+  &lt;li&gt;2014년 11월부터 2015년 3월까지 매출금액 합계를 출력하기&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;5-프로젝트-생명주기에서-데이터-모델링&quot;&gt;5. 프로젝트 생명주기에서 데이터 모델링&lt;/h2&gt;
+&lt;h3 id=&quot;-sql자격검정시험-64p-47번-문제&quot;&gt;+ SQL자격검정시험 64p 47번 문제&lt;/h3&gt;
 
-&lt;h2 id=&quot;6-데이터-모델링에서-데이터-독립성의-이해&quot;&gt;6. 데이터 모델링에서 데이터 독립성의 이해&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;데이터 독립성의 필요성 : 유지보수비용 증가, 데이터 복잡도 증가, 데이터 중복성 증가, 요구사항대응 저하&lt;/li&gt;
-  &lt;li&gt;데이터베이스 3단계 구조 : 외부 단계, 개념적 단계, 내부적 단계&lt;/li&gt;
-  &lt;li&gt;데이터독립성 3개 요소 : 외부 스키마, 개념 스키마, 내부 스티마&lt;/li&gt;
-  &lt;li&gt;두 영역의 데이터 독립성 : 논리적 독립성, 물리적 독립성&lt;/li&gt;
-  &lt;li&gt;Mapping (사상) : 외부/개념적 사항 + 개념/물리적 사상의 상호 독립적인 개념을 연결시켜주는 다리&lt;/li&gt;
+  &lt;li&gt;0과 NULL을 포함한 나눗셈
+    &lt;ul&gt;
+      &lt;li&gt;숫자/0 -&amp;gt; error&lt;/li&gt;
+      &lt;li&gt;숫자/NULL -&amp;gt; NULL&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;7-데이터-모델링의-중요한-세-가지-개념&quot;&gt;7. 데이터 모델링의 중요한 세 가지 개념&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h1 id=&quot;제-6절-함수&quot;&gt;제 6절. 함수&lt;/h1&gt;
+
+&lt;h2 id=&quot;1-단일-행-함수와-다중-행-함수&quot;&gt;1. 단일 행 함수와 다중 행 함수&lt;/h2&gt;
+
+&lt;h3 id=&quot;단일-행-함수&quot;&gt;단일 행 함수&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;데이터 모델링의 3가지 요소 : Thing, Attributes, Relationship&lt;/li&gt;
+  &lt;li&gt;추출되는 행마다 작업을 수행하고, 각 행마다 하나의 결과를 반환&lt;/li&gt;
+  &lt;li&gt;SELECT, WHERE, ORDER BY, UPDATE의 SET 절에 사용 가능&lt;/li&gt;
+  &lt;li&gt;데이터 타입 변경 가능, 중첩 사용 가능&lt;/li&gt;
+  &lt;li&gt;그룹(집계) 함수를 제외하면 대부분은 단일 행 함수&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;다중-행-함수&quot;&gt;다중 행 함수&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;여러 개의 행이 입력되고, 하나의 값을 변환&lt;/li&gt;
+  &lt;li&gt;ex : SUM, AVG, MAX, MIN, COUNT …&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;내장-함수--입력되는-값이-많아도-출력은-하나만-m1&quot;&gt;내장 함수 : 입력되는 값이 많아도 출력은 하나만 (M:1)&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;LOWER, UPPER, ASCII, CONCAT, SUBSTR, LEN, LTRIM(RTRIM,TRIM), RTRIM&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;문자형-함수&quot;&gt;문자형 함수&lt;/h2&gt;
+&lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;단수와 집합(복수)의 명명&lt;/p&gt;
+    &lt;p&gt;REPLACE(C1, CHR(10)) : 줄바꿈을 empty string으로 바꿔줌 (60p 41번)&lt;/p&gt;
+
+    &lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;
+    
+  &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;LENGTH&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;-- 3&lt;/span&gt;
+
+  &lt;span class=&quot;err&quot;&gt;↓&lt;/span&gt; 
+  &lt;span class=&quot;k&quot;&gt;REPLACE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;CHR&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+  &lt;span class=&quot;err&quot;&gt;↓&lt;/span&gt; 
+
+  &lt;span class=&quot;n&quot;&gt;AA&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;LENGTH&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;-- 2&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;숫자형-함수&quot;&gt;숫자형 함수&lt;/h2&gt;
+&lt;h2 id=&quot;날짜형-함수&quot;&gt;날짜형 함수&lt;/h2&gt;
+&lt;h2 id=&quot;변환형-함수&quot;&gt;변환형 함수&lt;/h2&gt;
+
+&lt;h2 id=&quot;case-함수--if-then-else-61p-43번&quot;&gt;CASE 함수 : IF-THEN-ELSE (61p 43번)&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-simple_case_expression&quot;&gt;1. SIMPLE_CASE_EXPRESSION&lt;/h3&gt;
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LOC&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;CASE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LOC&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;WHEN&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'NEW YORK'&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;THEN&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'EAST'&lt;/span&gt;
+      &lt;span class=&quot;k&quot;&gt;ELSE&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'ETC'&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;END&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;AREA&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;TROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;DEPT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;2-searched_case_expression&quot;&gt;2. SEARCHED_CASE_EXPRESSION&lt;/h3&gt;
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LOC&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;CASE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;WHEN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LOC&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'NEW YORK'&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;THEN&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'EAST'&lt;/span&gt;
+      &lt;span class=&quot;k&quot;&gt;ELSE&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'ETC'&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;END&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;AREA&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;TROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;DEPT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;null-함수-&quot;&gt;NULL 함수 ★★★★&lt;/h2&gt;
+
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ENAME&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;COMM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;COALESCE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;COMM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;SAL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;COAL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;EMP&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;1-nvl-oracle--isnull-sql-server&quot;&gt;1. NVL (Oracle) / ISNULL (SQL Server)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;NVL : Null Value의 약어&lt;/li&gt;
+  &lt;li&gt;표현식1 결과 값이 NULL이면 표현식2 리턴&lt;/li&gt;
+  &lt;li&gt;NVL(K,0) : K 컬럼이 NULL이면 0으로 바꿈&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;2-nvl2&quot;&gt;2. NVL2&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;NVL2(K,1,-1) : 컬럼이 NULL이 아니면 1을, NULL이면 -1 리턴&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;2-nullif-63p-47번&quot;&gt;2. NULLIF (63p 47번)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;두 값이 같으면 NULL을, 같지 않으면 첫 번쨰 값을 반환&lt;/li&gt;
+  &lt;li&gt;NVL(exp1, exp2) : exp1 = exp2 이면 NULL / exp1 != exp2 이면 exp1 리턴&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;3-coalesce표현식1-표현식-2-&quot;&gt;3. COALESCE(표현식1, 표현식 2 …)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;COALESCE의 사전적 정의 : “큰 덩어리로 합치다”&lt;/li&gt;
+  &lt;li&gt;여러 표현식에서 행 기준으로 NULL이 아닌 최초의 표현식을 리턴&lt;/li&gt;
+  &lt;li&gt;모든 표현식이 NULL이면 NULL 리턴&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;COALESCE(Phone, tel) : 휴대폰번호가 있으면 휴대폰 번호를, 일반 전화번호가 있으면 tel을 리턴하여 취합할 수 있음&lt;/p&gt;
 
     &lt;table&gt;
       &lt;thead&gt;
         &lt;tr&gt;
-          &lt;th style=&quot;text-align: left&quot;&gt;개념&lt;/th&gt;
-          &lt;th style=&quot;text-align: center&quot;&gt;복수/집합개념 &amp;amp; 타입/클래스&lt;/th&gt;
-          &lt;th style=&quot;text-align: right&quot;&gt;개별/단수 개념 &amp;amp; 어커런스/인스턴스&lt;/th&gt;
+          &lt;th&gt;A&lt;/th&gt;
+          &lt;th&gt;B&lt;/th&gt;
+          &lt;th&gt;COALESCE(A,B)&lt;/th&gt;
         &lt;/tr&gt;
       &lt;/thead&gt;
       &lt;tbody&gt;
         &lt;tr&gt;
-          &lt;td style=&quot;text-align: left&quot;&gt;어떤 것&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;엔터티타입(Entity Type) / 엔터티(Entity)&lt;/td&gt;
-          &lt;td style=&quot;text-align: right&quot;&gt;엔터티(Entity) / 인스턴스(Instance)&lt;/td&gt;
+          &lt;td&gt;10&lt;/td&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt;10&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
-          &lt;td style=&quot;text-align: left&quot;&gt;어떤 것간의 연관&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;관계(Relationship)&lt;/td&gt;
-          &lt;td style=&quot;text-align: right&quot;&gt;페어링 (Pairing)&lt;/td&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt;20&lt;/td&gt;
+          &lt;td&gt;20&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
-          &lt;td style=&quot;text-align: left&quot;&gt;어떤 것의 성격&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;속성 (Attributes)&lt;/td&gt;
-          &lt;td style=&quot;text-align: right&quot;&gt;속성값 (Attribute Value)&lt;/td&gt;
+          &lt;td&gt;10&lt;/td&gt;
+          &lt;td&gt;20&lt;/td&gt;
+          &lt;td&gt;10&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt;NULL&lt;/td&gt;
         &lt;/tr&gt;
       &lt;/tbody&gt;
     &lt;/table&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;8-erdentity-relationship-diagram&quot;&gt;8. ERD(Entity Relationship Diagram)&lt;/h2&gt;
-&lt;p&gt;엔터티를 사각형으로, 관계를 마름모로, 속성을 타원형으로 표현&lt;/p&gt;
+&lt;h3 id=&quot;-sql자격검정시험-64p-48번-문제--coalesce-연산자&quot;&gt;+ SQL자격검정시험 64p 48번 문제 : COALESCE 연산자&lt;/h3&gt;
 
-&lt;h2 id=&quot;9-좋은-데이터-모델의-요소&quot;&gt;9. 좋은 데이터 모델의 요소&lt;/h2&gt;
-&lt;p&gt;완전성, 중복배제, 업무규칙, 데이터 재사용, 의사소통, 통합성&lt;/p&gt;
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;C1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;C2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;C3&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;----|----|----| &lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;  &lt;span class=&quot;n&quot;&gt;coalesce&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;→&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;    &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;  &lt;span class=&quot;n&quot;&gt;coalesce&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;→&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;    &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;    &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;  &lt;span class=&quot;n&quot;&gt;coalesce&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;→&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;
 
-&lt;h1 id=&quot;제-2절-엔터티&quot;&gt;제 2절. 엔터티&lt;/h1&gt;
+  &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SUM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;COALESCE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;C3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;  
+  &lt;span class=&quot;c1&quot;&gt;-- 1+2+3 = 6&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h2 id=&quot;1-엔터티의-개념--실체-객체&quot;&gt;1. 엔터티의 개념 : “실체, 객체”&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h1 id=&quot;제-7절-group-by-having-절&quot;&gt;제 7절. GROUP BY, HAVING 절&lt;/h1&gt;
+&lt;p&gt;https://ggmouse.tistory.com/423&lt;/p&gt;
 
-&lt;h2 id=&quot;2-엔터티의-특징&quot;&gt;2. 엔터티의 특징&lt;/h2&gt;
+&lt;h3 id=&quot;1-group-by&quot;&gt;1. GROUP BY&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;item&lt;/th&gt;
+      &lt;th&gt;cost&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;pencil&lt;/td&gt;
+      &lt;td&gt;100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;knife&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;pencil&lt;/td&gt;
+      &lt;td&gt;150&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;pencil&lt;/td&gt;
+      &lt;td&gt;130&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;knife&lt;/td&gt;
+      &lt;td&gt;190&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SUM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cost&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;sum&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;--결과 &lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;   &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cost&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;--------|------|&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pencil&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;390&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;knife&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;380&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;2-roll-up&quot;&gt;2. ROLL UP&lt;/h3&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;업무에서 필요로 하는 정보&lt;/li&gt;
-  &lt;li&gt;식별자에 의해 식별이 가능해야 함&lt;/li&gt;
-  &lt;li&gt;인스턴스의 집합&lt;/li&gt;
-  &lt;li&gt;업무프로세스에 의해 이용&lt;/li&gt;
-  &lt;li&gt;속성을 포함&lt;/li&gt;
-  &lt;li&gt;관계의 존재&lt;/li&gt;
+  &lt;li&gt;GROUP BY 후 오는 항목을을 오른쪽에서 왼쪽으로 묶어 집계&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;3-엔터티의-분류&quot;&gt;3. 엔터티의 분류&lt;/h2&gt;
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;store&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+  &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+  &lt;span class=&quot;k&quot;&gt;SUM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cnt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;all_cnt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+  &lt;span class=&quot;k&quot;&gt;SUM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cost&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;all_cost&lt;/span&gt; 
+&lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sql_test_a&lt;/span&gt; 
+&lt;span class=&quot;k&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ROLLUP&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;store&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;3-grouping&quot;&gt;3. GROUPING&lt;/h3&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;유무형에 따른 분류 : 유형 엔터티, 개념 엔터티, 사건 엔터티&lt;/li&gt;
-  &lt;li&gt;발생시점에 따른 분류 : 기본 엔터티, 중심 엔터티, 행위 엔터티&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  제 1절. 데이터모델의 이해</summary></entry></feed>
+  &lt;li&gt;소계 컬럼이 null로 보이는게 거슬린다면 사용&lt;/li&gt;
+  &lt;li&gt;결과가 NULL일때 1, 아닐 때 0을 반환&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; 
+  &lt;span class=&quot;k&quot;&gt;GROUPING&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;store&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;grp_store&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+  &lt;span class=&quot;n&quot;&gt;store&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;GROUPING&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;grp_item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;SUM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cnt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;all_cnt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;SUM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cost&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;all_cost&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ROLLUP&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;store&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;4-cube&quot;&gt;4. CUBE&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;GROUP BY 항목들 간 &lt;strong&gt;모든 경우의 수&lt;/strong&gt;로 그룹을 생성&lt;/li&gt;
+  &lt;li&gt;ROLL UP 보다 더 상세한 결과를 냄&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;5-grouping-sets&quot;&gt;5. GROUPING SETS&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;특정 항목에 대한 집계&lt;/li&gt;
+  &lt;li&gt;UNION ALL과 같은 결과&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;store&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+  &lt;span class=&quot;k&quot;&gt;SUM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cnt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;all_cnt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+  &lt;span class=&quot;k&quot;&gt;SUM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cost&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;all_cost&lt;/span&gt; 
+&lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sql_test_a&lt;/span&gt; 
+&lt;span class=&quot;k&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;GROUPING&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SETS&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;store&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;그룹-묶음-방식의-차이&quot;&gt;그룹 묶음 방식의 차이&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ROLL(a,b,c) : (a,b,c) / (a,b) / (a) / (b) / (c) / ()&lt;/li&gt;
+  &lt;li&gt;CUBE(a,b,c) : (a,b,c) / (a,b) / (a,c) / (b,c) / (a) / (b) / (c) / ()&lt;/li&gt;
+  &lt;li&gt;GROUPING SETS(a,b,c) : (a) / (b) / (c) / ()&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h1 id=&quot;제-8절-order-by&quot;&gt;제 8절. ORDER BY&lt;/h1&gt;
+
+&lt;h2 id=&quot;select-문장-실행-순서-71p-59번&quot;&gt;SELECT 문장 실행 순서 (71p 59번)&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;입력순서&lt;/th&gt;
+      &lt;th&gt;실행순서&lt;/th&gt;
+      &lt;th&gt;절&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;SELECT&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;FROM&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;WHERE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;GROUP BY&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;HAVING&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;ORDER BY&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;FROM : 대상 테이블을 참조&lt;/li&gt;
+  &lt;li&gt;WHERE : 대상 데이터가 아닌 것 제외&lt;/li&gt;
+  &lt;li&gt;GROUP BY : ROW를 소그릅&lt;/li&gt;
+  &lt;li&gt;HAVING : 그루핑된 조건에 맞는 것만 출력&lt;/li&gt;
+  &lt;li&gt;FROM : 데이터 값을 출력/계산&lt;/li&gt;
+  &lt;li&gt;ORDER BY : 데이터 정렬&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;top-n-쿼리&quot;&gt;TOP N 쿼리&lt;/h2&gt;
+
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TOP&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;팀명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;승리건수&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;팀별성적&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ORDER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;승리건수&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DESC&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;-- 승리건수가 동일한 팀 중 하나만 출력&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TOP&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;WITH&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TIES&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;팀명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;승리건수&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;팀별성적&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ORDER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;승리건수&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DESC&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;-- 승리건수가 동일한 팀이 있다면 함께 출력&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h1 id=&quot;제-9절-조인&quot;&gt;제 9절. 조인&lt;/h1&gt;
+
+&lt;h2 id=&quot;1-equi-join&quot;&gt;1. EQUI JOIN&lt;/h2&gt;
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;-- 아래 두 구문은 같은 EQUI JOIN의 예시&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PLAYER_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;선수명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TEAM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;팀명&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TEAM&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_ID&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TEAM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_ID&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PLAYER_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;선수명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TEAM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;팀명&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TEAM&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TEAM&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_ID&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TEAM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_ID&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;’=’ 연산자에 의해서만 수행됨&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2-non-equi-join&quot;&gt;2. Non EQUI JOIN&lt;/h2&gt;
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;-- 아래 두 구문은 같은 Non EQUI JOIN의 예시&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PLAYER_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;선수명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;POSITION&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;포지션&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;REGION_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;연고지&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;팀명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;STADIUM_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;구장명&lt;/span&gt; 
+&lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TEAM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;STADIUM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;S&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_ID&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_ID&lt;/span&gt; 
+  &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;STADIUM_ID&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;STATIUM_ID&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;ORDER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;선수명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PLAYER_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;선수명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;POSITION&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;포지션&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;REGION_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;연고지&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;팀명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;STADIUM_NAME&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;구장명&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PLAYER&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;P&lt;/span&gt; 
+  &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TEAM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_ID&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;TEAM_ID&lt;/span&gt; 
+  &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;STADIUM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;S&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;STADIUM_ID&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;STADIUM_ID&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;ORDER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;선수명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;두 테이블 간 칼럼 값들이 서로 정확하게 일치하지 않을 때 사용&lt;/li&gt;
+  &lt;li&gt;’=’을 JOIN을 위한 연산자로 사용하지 않음 (BETWEEN, LIKE, &amp;gt;=, &amp;lt;=, &amp;gt;, &amp;lt; 등을 사용)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-sql자격검정시험-72p-62번-문제&quot;&gt;+ SQL자격검정시험 72p 62번 문제&lt;/h3&gt;
+
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;영화&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;영화명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;배우&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;배우명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;출연&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;출연료&lt;/span&gt; 
+&lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;영화&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;배우&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;출연&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;영화&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;영화번호&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;출연&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;영화번호&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;배우&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;배우번호&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;출연&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;배우번호&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;출연&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;출연료&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8888&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;영화&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;영화명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;배우&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;배우명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;출연&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;출연료&lt;/span&gt; 
+&lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;출연&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;배우&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;출연&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;배우번호&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;배우&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;배우번호&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;영화&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;출연&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;영화번호&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;영화&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;영화번호&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;출연료&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8888&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;-sql자격검정시험-74p-64번-문제&quot;&gt;+ SQL자격검정시험 74p 64번 문제&lt;/h3&gt;
+
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;EMP_TBL&lt;/span&gt;           &lt;span class=&quot;n&quot;&gt;RULE_TBL&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;EMPNO&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ENAME&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;RULE_NO&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;RULE&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;-------|-------| |---------|------|&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1000&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;SMITH&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;       &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;   &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1050&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ALLEN&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;       &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1100&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;SCOTT&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;COUNT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;EMP_TBL&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;RULE_TBL&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;B&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ENAME&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;LIKE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;B&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;RULE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;RULE 테이블과 아래처럼 EMP 테이블과의 연결이 2번 행해지기 때문에 총 4건을 찾을 수 있음&lt;/p&gt;
+
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ENAME&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;LIKE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;S&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;-- 2개 (SMITH, SCOTT)&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ENAME&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;LIKE&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;-- 2개 (SMITH, SCOTT)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;-sql자격검정시험-74p-64번-문제-1&quot;&gt;+ SQL자격검정시험 74p 64번 문제&lt;/h3&gt;
+
+&lt;p&gt;구매이력이 있는 고객 중 구매횟수가 3회 이상인 고객의 이름과 등급 출력하기&lt;/p&gt;
+
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;-- 테이블 스키마 정보&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;-- 고객(고객번호(PK), 이름, 등급)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;-- 구매정보(구매번호(PK), 구매금액, 고객번호(FK))&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;이름&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;등급&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;고객&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;구매정보&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;B&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;고객번호&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;B&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;고객번호&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;이름&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;등급&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;HAVING&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;COUNT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;B&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;구매번호&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  제 1절. 관계형 데이터베이스 개요</summary></entry></feed>
