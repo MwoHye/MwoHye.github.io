@@ -1,29 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-01T11:27:58+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Manager Mwohye</title><subtitle></subtitle><author><name>매니저 뭐해</name></author><entry><title type="html">[SQLD/개정] 비전공자 리뷰, 합격-불합격을 결정한 공부 방법 차이, 무료 강의 추천</title><link href="http://localhost:4000/sqld/SQLD-review/" rel="alternate" type="text/html" title="[SQLD/개정] 비전공자 리뷰, 합격-불합격을 결정한 공부 방법 차이, 무료 강의 추천" /><published>2021-12-18T00:00:00+09:00</published><updated>2021-12-18T15:15:00+09:00</updated><id>http://localhost:4000/sqld/SQLD-review</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-review/">&lt;p&gt; &lt;/p&gt;
-
-&lt;h1 id=&quot;서론--비전공자-직장인-2회차&quot;&gt;서론 : 비전공자, 직장인, 2회차&lt;/h1&gt;
-
-&lt;p&gt;저는 심리학 출신으로 전략 기획 업무를 하고 있고, 2년 전때 1문제 차이로 탈랐했습니다.&lt;/p&gt;
-
-&lt;p&gt;이번에 회사에서 시험비용을 지원해주어 정말 오랜만에 시험을 보게 되었고, 공부했던 내용이 근육으로 남아 지금까지도 업무에 많은 도움을 주고 있습니다.&lt;/p&gt;
-
-&lt;p&gt;개인적으로 2년 전 불합격과 이번 합격은 저에게 여러모로 큰 차이가 있습니다. 보다 효율적으로 시간 안배를 하려고 노력했고, 공부하는 마음가짐도 달랐으며, 공부했던 경험이 장기기억으로 예전보다 많이 넘어갔다고 느끼기 때문입니다.&lt;/p&gt;
-
-&lt;p&gt;그래서 일과 병행하며 공부했던 당시 상황, 실제 이해하고자 했던 일련의 과정들, 이로 인한 체감 난이도의 차이, 그리고 시험 당일 나름 준비했던 꿀팁 등을 일괄 정리해 공유하고자 합니다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;\assets\images\SQLD\2021-12-18-SQLD-review\1.JPG&quot; alt=&quot;SQLD 점수 결과 이미지&quot; /&gt;
- &lt;/p&gt;
-
-&lt;h1 id=&quot;시험-정보&quot;&gt;시험 정보&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;제 43회 SQL개발자(SQLD)&lt;/li&gt;
-  &lt;li&gt;응시일시 : 11월 20일 토요일 10:00am - 11:30am&lt;/li&gt;
-  &lt;li&gt;전체 문제 : 40문제 객관식 + 10문제 주관식&lt;/li&gt;
-  &lt;li&gt;합격 기준 : 60점 이상&lt;/li&gt;
-  &lt;li&gt;과락 기준 : 1과목(10문제), 또는 2과목(40문제) 40점 미만&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt; &lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-01T12:55:24+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Manager Mwohye</title><subtitle></subtitle><author><name>매니저 뭐해</name></author><entry><title type="html">[SQLD/개정] 비전공자 리뷰, 합격-불합격을 결정한 공부 방법 차이, 김강민 SQLD 무료 요약 강의 추천</title><link href="http://localhost:4000/sqld/SQLD-review/" rel="alternate" type="text/html" title="[SQLD/개정] 비전공자 리뷰, 합격-불합격을 결정한 공부 방법 차이, 김강민 SQLD 무료 요약 강의 추천" /><published>2021-12-18T00:00:00+09:00</published><updated>2021-12-18T15:15:00+09:00</updated><id>http://localhost:4000/sqld/SQLD-review</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-review/">&lt;p&gt; &lt;/p&gt;
 
 &lt;h1 id=&quot;공부-방법&quot;&gt;공부 방법&lt;/h1&gt;
 
@@ -32,6 +7,8 @@
 &lt;/ul&gt;
 
 &lt;p&gt;예전에는 노랭이 책을 형식적으로 읽었다면, 이번에는 한번 부담 없이 1회독 후, 생각하고 이해하며 한번 더 읽었습니다. 두 번째로 읽을 때는 노랭이 특유의 불충분한 설명을 인터넷의 다양한 게시글과 예시로 보완했는데, 이게 이해하는데 많은 도움이 되었습니다.&lt;/p&gt;
+
+&lt;p&gt;또한, 개인적으로 1과목을 참 열심히 읽었습니다. 1과목의 이론적인 내용을 꼼꼼히 읽고 나니 2과목이 훨씬 수월하게 와닿았습니다.&lt;/p&gt;
 
 &lt;p&gt;SQL을 직접 다운로드 하지는 않았고, VS CODE에서 SQL을 입력해보는 정도로 간간히 코드를 직접 써보기도 했습니다.&lt;/p&gt;
 
@@ -46,21 +23,23 @@
 관련 영상 링크 : https://www.youtube.com/watch?v=PjCSvexo3Ow&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;사실상 여기에서 문제가 다 나왔습니다. 진짜 진심으로 추천합니다. 여기서 말씀해주신 내용을 받아쓰기하듯 정리했고, 대충 넘겨주신 부분들은 이론책/요약책/내 블로그에 있는 내용을 모두 더블체크하며 내가 이해할 수 있는 수준까지 정리하려고 노력했습니다.&lt;/p&gt;
+&lt;p&gt;강추!! 사실상 여기에서 문제가 다 나왔습니다. 노랭이에서 담지 못한 최근 시험 트렌드는 여기서 확인 가능합니다.
+여기서 말씀해주신 내용을 받아쓰기하듯 정리했고, 대충 넘겨주신 부분들은 이론책/요약책/내 블로그에 있는 내용을 모두 더블체크하며 내가 이해할 수 있는 수준까지 정리하려고 노력했습니다.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;D-4 : 기출 문제 3번 풀기 &amp;amp; 오답 반복하기(★★)&lt;/li&gt;
+  &lt;li&gt;D-4 : 노랭이 기출 문제 3회독 &amp;amp; 오답 반복하기(★★)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;드디어 문제를 풀기 시작했습니다. 4일 만에 문제은행을 시작하는 게 살짝 부담되었고, 노랭이 1번째 풀때는 진짜 탈락하는 줄 알고 간담이 서늘해지기도 했지만, 2번째 부터는 틀린 부분 블로그에 정리해가면서 풀었고 푸는 시간이 크게 줄었습니다. 3번째는 시간이 없어서 틀린 부분위주로 빠르게 정답 오답 왔다가며 체크했습니다.&lt;/p&gt;
+&lt;p&gt;드디어 문제를 풀기 시작했습니다. 4일 만에 문제은행을 시작하는 게 살짝 부담되었고, 처음 노랭이 문제 때는 진짜 탈락하는 줄 알고 간담이 서늘해지기도 했지만, 두 번째 부터는 틀린 부분 블로그에 정리해가면서 풀었고 푸는 시간 자체는 크게 줄었습니다. 세 번째는 시간이 없어서 틀린 부분위주로 빠르게 정답 오답 왔다가며 체크했습니다.&lt;/p&gt;
 
-&lt;p&gt;예전 기출 문제를 찾아서 풀기도 했는데 생각보다 많이 틀렸고, 문제 해석도 불충분했으며, 여기 나온 정보를 모두 공부하기에는 품이 너무 많이 들어가 그냥 노랭이만 팠습니다.&lt;/p&gt;
+&lt;p&gt;인터넷에 돌아다니는 기출 문제도 풀어봤는데 생각보다 많이 틀렸고, 문제 해석도 불충분했으며, 여기 나온 정보를 모두 공부하기에는 품이 많이 들어가 그냥 노랭이만 팠습니다.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;D-1 : 안 함. 퇴근 후 동창회 갔음(???)&lt;/li&gt;
+  &lt;li&gt;D-1 : 안 함.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;시험 직후 빠른 오답체크를 위해 오픈카톡방을 찾아 들어가 알람을 꺼둔 것 외엔 한게 없습니다.&lt;/p&gt;
+&lt;p&gt;예전부터 잡힌 개인 일정 때문에 공부를 아예 안 했습니다.
+시험 직후 빠른 오답체크를 위해 오픈카톡방을 찾아 들어가 알람을 꺼둔 것 외엔 한게 없습니다.&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
@@ -70,98 +49,79 @@
   &lt;li&gt;인근 지역 2시간 전 도착&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;아침 8시에 스타벅스에 도착하여, 커피랑 간식 기분좋게 든든하게 먹으면서 그간 정리한 오답노트와 김강민 SQLD 최종 정리 강의 유튜브돌 빠르게 돌렸습니다.&lt;/p&gt;
+&lt;p&gt;아침 8시에 카페에 도착하여, 커피랑 간식 든든하게 먹으면서 그간 정리한 오답노트와 김강민 SQLD 유튜브를 빠르게 돌렸습니다.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;시험장 입장 마감 시간 직전에(★★★)&lt;/li&gt;
+  &lt;li&gt;시험장 입장&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;그간 AdSP, 정보처리기사, 빅데이터분석기사 등 자격증 시험을 보며 느낀 점은 수능과 달리 일찍 가서 좋은게 하나도 없다는 것입니다.&lt;/p&gt;
+&lt;p&gt;그간 다양한 자격증 시험을 보며 느낀 점은 수능과 달리 일찍 가서 좋은게 하나도 없다는 것입니다.&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;시험장 환경을 예상할 수 없고, 사실 대부분 춥거나 더워서 불편한 경우가 많습니다.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;마감 시간에 입장 입장이 아직 가능한 상태임에도 모든 개인물품을 미리 가방에 넣으라고 지시합니다.&lt;/p&gt;
+    &lt;p&gt;시험장은 마감 시간 직전에 들어갑니다. (★★★)&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;그렇기 때문에 아이러니하지만 늦게 들어가면 그 시간에 공부를 더 할 수 있습니다. 입장 시간이 마감 직전에 들어가더라도 무려 30분 뒤에 시험을 보기 때문에 다른 응시자들에게 영향을 주진 않습니다.&lt;/p&gt;
+&lt;p&gt;입장이 아직 가능한 상태임에도 현장에서는 모든 개인물품을 미리 가방에 넣으라고 지시합니다. 그렇기 때문에 아이러니하지만 늦게 들어가면 그 시간에 공부를 더 할 수 있습니다. 입장 마감 후 무려 30분 뒤에 시험을 보기 때문에 다른 응시자들에게 영향을 주지도 않습니다.&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;겉옷을 미리 벗어 들고, 신분증과 펜은 미리 손에 쥐고 들어가 자리에 앉자마자 빠르게 세팅했습니다.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;부시럭거리며 정신사나운걸 싫어하시는 저같은 분들만 이렇게 하시면 됩니다.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;수험표는
-수험번호를 칠판에서 보고 외워서 자리에 가 받아적는 것는 것보단 그냥 수험표를 인쇄해서 들고가거나 수험번호를 적어가는 게 마음이 편합니다. 실제로 현장에선&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;조용한 현장에서 혼자 눈에 띄게 부시럭거리거나 정신 사나운 모습이 되는 걸 싫어하시는 저같은 분들만 이렇게 하시면 됩니다.&lt;/p&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;수험번호는 미리 준비합니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;본인 수험번호 자리 찾는건 문제 없었는데 답안지 작성할때 내 시험번호를 몰라서 불러주셨다. 내가 잘못 적었을 까봐 엄청 무서웠고 초조했음. 내년에 SQLP도 도전해보고 싶어서 다음에는 수험표 그냥 인쇄해서 가져가려고 함.&lt;/p&gt;
+    &lt;p&gt;자리에서 일어나서 칠판에 부착된 배치표로 간 뒤, 수험번호를 외운 후, 자리에 착석 후 마킹&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;시험은 조금 특이하다 싶은 문제가 있긴 했지만,
-모두 고르시오 문제도 없었고 노랭이에서 문제 및 보기가 그대로 나온 문제도 있었다.&lt;/p&gt;
+    &lt;p&gt;감독관이 자리로 가서 수험번호를 구두로 불러주면 들리는대로 받아적기&lt;/p&gt;
   &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;소지품을 모두 넣은 후, 응시자가 본인의 수험번호를 모르면 보통 감독관은 위에 기재된 두 가지 방법을 사용합니다.
+불안정한 방법으로 뇌와 시간을 허비하지 말고, 그냥 수험표를 인쇄해서 들고가거나 수험번호를 작은 쪽지에 적어가는 게 마음이 편합니다.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h1 id=&quot;시험-본-후--시험-유형--체감-난이도&quot;&gt;시험 본 후 &amp;amp; 시험 유형 &amp;amp; 체감 난이도&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;노랭이 문제 60% : 문제 은행 30% + 이론과 응용 30%&lt;/li&gt;
+  &lt;li&gt;김강민 30% (노랭이에 안 나오거나 집중적으로 다루지 않았지만, 개정 후 바뀐 트렌드가 반영된 문제)&lt;/li&gt;
+  &lt;li&gt;특이한 문제 5% (이게 뭘까.. 싶은 한 문제)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;모두 고르시오도 없었고, 주관식도 대체적으로 평탄했습니다만 김강민 유투브를 안 보고 노랭이만 팠다면 100% 틀릴만한 문제도 있었습니다. 시험 본 직후에는 합격은 확실히 하겠구나 하고 느꼈고, 오픈카톡방과 카페에서 나오는 정답들을 보며 합격권인 것을 미리 확인했습니다.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h1 id=&quot;그래서-이-sqld-자격증은-어떻게-삶에-도움이-되고-있나요&quot;&gt;그래서 이 SQLD 자격증은 어떻게 삶에 도움이 되고 있나요?&lt;/h1&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h1 id=&quot;시험-정보&quot;&gt;시험 정보&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;제 43회 SQL개발자(SQLD)&lt;/li&gt;
+  &lt;li&gt;응시일시 : 11월 20일 토요일 10:00am - 11:30am&lt;/li&gt;
+  &lt;li&gt;전체 문제 : 40문제 객관식 + 10문제 주관식&lt;/li&gt;
+  &lt;li&gt;합격 기준 : 60점 이상&lt;/li&gt;
+  &lt;li&gt;과락 기준 : 1과목(10문제), 또는 2과목(40문제) 40점 미만&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
-&lt;h3 id=&quot;합격과-불합격의-공부-차이--이해하려는-노오력&quot;&gt;합격과 불합격의 공부 차이 : 이해하려는 노오력&lt;/h3&gt;
-
-&lt;p&gt;나는 1단원을 책으로 정말 흥미롭게 봤다.
-1단원과 2단원을 따로 생각하고, 각각 단원의 연관성을 고려해본 적이 없는데
-1단원을 열심히 읽고 나니 다른 단원 내용들도 이해가 잘 가는 것을 느낄 수 있었다.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;h3 id=&quot;sqld-추천--비추천-공부방법&quot;&gt;SQLD 추천 &amp;amp; 비추천 공부방법&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;기본서 정독하기 &amp;amp; 가볍게 훑기&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;노랭이 책 풀기 (최소 2회 이상)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;단톡방 들어가기
-단톡방은 시험 정보를 빠르게 알기 위해 들어갔었다.
-시험장에서 나온 직후부터 바로 생생한 시험 난이도 후기와, 시험지와 정답을 공유하지 않는 SQLD 특성상 다같이 머리를 모아가며 내 점수를 추정해야 하기 때문이다.
-방 마다 분위기가 다를 수 있겠으나, 내가 시험본 43회 시험때는 오답을 너무 당당히 정답이라고 우기는 분들이 있어서 채팅방에 혼란만 주고 별로 도움이 되지 않았다. 시험 본 직후 30분까지만 열심히 보고 이후에는 카페에서 대부분의 정보를 받았다.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;요약본 보기&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;요약본 만들기
-손으로 안하고 컴퓨터로 하니 어디서든 쉽게 볼수 있어서 좋았다.
-내 노트에 오류가 있어서 몇 번 수정했다.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;오답노트 만들기&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;유투브 강의 보기
-    &lt;ul&gt;
-      &lt;li&gt;아저씨, 여자, 정리 잘해주시는 분 중 세번째 추천&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;SQL 직접 컴퓨터로 입력해보기&lt;/li&gt;
-  &lt;li&gt;자기만의 요약된 정보 가지기&lt;/li&gt;
-  &lt;li&gt;카페 가입하기&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;h3 id=&quot;그래서-이-sqld-자격증은-어떻게-삶에-도움이-되고-있나요&quot;&gt;그래서 이 SQLD 자격증은 어떻게 삶에 도움이 되고 있나요?&lt;/h3&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html"> </summary></entry><entry><title type="html">[SQLD/개정] 2021/11/20 43회 시험 가답안 총정리 (정답, 과목, 문제)</title><link href="http://localhost:4000/sqld/SQLD-43th/" rel="alternate" type="text/html" title="[SQLD/개정] 2021/11/20 43회 시험 가답안 총정리 (정답, 과목, 문제)" /><published>2021-11-21T00:00:00+09:00</published><updated>2021-11-30T17:27:00+09:00</updated><id>http://localhost:4000/sqld/SQLD-43th</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-43th/">&lt;ul&gt;
+&lt;p&gt;&lt;img src=&quot;\assets\images\SQLD\2021-12-18-SQLD-review\1.JPG&quot; alt=&quot;SQLD 점수 결과 이미지&quot; /&gt;
+ &lt;/p&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html"> </summary></entry><entry><title type="html">[SQLD/개정] 2021/11/20 43회 시험 가답안 총정리 (정답, 과목, 문제)</title><link href="http://localhost:4000/sqld/SQLD-43th/" rel="alternate" type="text/html" title="[SQLD/개정] 2021/11/20 43회 시험 가답안 총정리 (정답, 과목, 문제)" /><published>2021-11-21T00:00:00+09:00</published><updated>2021-11-30T17:27:00+09:00</updated><id>http://localhost:4000/sqld/SQLD-43th</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-43th/">&lt;ul&gt;
   &lt;li&gt;지속적으로 업데이트 됩니다.&lt;/li&gt;
   &lt;li&gt;공유가 문제가 되지 않는 선에서 시험 본 분들만 이해하실 수 있도록 최소한의 키워드만 기재했습니다.&lt;/li&gt;
 &lt;/ul&gt;
