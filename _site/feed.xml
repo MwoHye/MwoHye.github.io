@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-01T10:56:58+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Manager Mwohye</title><subtitle></subtitle><author><name>매니저 뭐해</name></author><entry><title type="html">[SQLD/개정] 비전공자 리뷰, 합격-불합격을 결정한 공부 방법 차이, 무료 강의 추천</title><link href="http://localhost:4000/sqld/SQLD-review/" rel="alternate" type="text/html" title="[SQLD/개정] 비전공자 리뷰, 합격-불합격을 결정한 공부 방법 차이, 무료 강의 추천" /><published>2021-12-18T00:00:00+09:00</published><updated>2021-12-18T15:15:00+09:00</updated><id>http://localhost:4000/sqld/SQLD-review</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-review/">&lt;p&gt; &lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-01T11:27:58+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Manager Mwohye</title><subtitle></subtitle><author><name>매니저 뭐해</name></author><entry><title type="html">[SQLD/개정] 비전공자 리뷰, 합격-불합격을 결정한 공부 방법 차이, 무료 강의 추천</title><link href="http://localhost:4000/sqld/SQLD-review/" rel="alternate" type="text/html" title="[SQLD/개정] 비전공자 리뷰, 합격-불합격을 결정한 공부 방법 차이, 무료 강의 추천" /><published>2021-12-18T00:00:00+09:00</published><updated>2021-12-18T15:15:00+09:00</updated><id>http://localhost:4000/sqld/SQLD-review</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-review/">&lt;p&gt; &lt;/p&gt;
 
 &lt;h1 id=&quot;서론--비전공자-직장인-2회차&quot;&gt;서론 : 비전공자, 직장인, 2회차&lt;/h1&gt;
 
@@ -28,17 +28,17 @@
 &lt;h1 id=&quot;공부-방법&quot;&gt;공부 방법&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;D-14 : 노랭이 책 2번 + 인터넷 찾아보며 읽기(★★), 키보드로 깨작깨작 써보기(★), 나만의 요약 정리하기&lt;/li&gt;
+  &lt;li&gt;D-14 : 노랭이 책 2번 + 인터넷 찾아보며 읽기(★★★), 키보드로 깨작깨작 써보기(★), 나만의 요약 정리하기&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;예전에는 노랭이 책을 형식적으로 읽었다면, 이번에는 한번 쓱 보고, 생각하고 이해하며 한번 더 읽었습니다. 두 번째로 읽을 때는 노랭이 특유의 불충분한 설명을 인터넷의 다양한 게시글과 예시로 보완했는데, 이게 이해하는데 많은 도움이 되었습니다.&lt;/p&gt;
+&lt;p&gt;예전에는 노랭이 책을 형식적으로 읽었다면, 이번에는 한번 부담 없이 1회독 후, 생각하고 이해하며 한번 더 읽었습니다. 두 번째로 읽을 때는 노랭이 특유의 불충분한 설명을 인터넷의 다양한 게시글과 예시로 보완했는데, 이게 이해하는데 많은 도움이 되었습니다.&lt;/p&gt;
 
 &lt;p&gt;SQL을 직접 다운로드 하지는 않았고, VS CODE에서 SQL을 입력해보는 정도로 간간히 코드를 직접 써보기도 했습니다.&lt;/p&gt;
 
 &lt;p&gt;공부한 내용은 블로그나 노션 등으로 정리하기도 했는데, 도움이 안 되진 않았지만 생각보다 많은 시간이 들어 저에게는 효율적인 방법이 아니었습니다.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;D-7 : 요약 강의 듣기(★★★★)&lt;/li&gt;
+  &lt;li&gt;D-7 : 요약 강의 듣기(★★★★★)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
@@ -67,17 +67,37 @@
 &lt;h1 id=&quot;시험-당일&quot;&gt;시험 당일&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;당일 : 인근 지역 2시간 전 도착, 시험장 입장은 마감 시간 직전에(★★★)&lt;/li&gt;
+  &lt;li&gt;인근 지역 2시간 전 도착&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;아침 8시에 스타벅스에 도착했고, 커피랑 간식 기분좋게 든든하게 먹으면서 오답노트랑 유투브 노트를 돌렸다. 그리고 시험장에는 입장 막기 직전에 들어갔다.&lt;/p&gt;
+&lt;p&gt;아침 8시에 스타벅스에 도착하여, 커피랑 간식 기분좋게 든든하게 먹으면서 그간 정리한 오답노트와 김강민 SQLD 최종 정리 강의 유튜브돌 빠르게 돌렸습니다.&lt;/p&gt;
 
-&lt;p&gt;그간 자격증 시험 보며 느낀 점은 수능과 달리 일찍 가서 좋은게 하나도 없다는 거다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;시험장 입장 마감 시간 직전에(★★★)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;그간 AdSP, 정보처리기사, 빅데이터분석기사 등 자격증 시험을 보며 느낀 점은 수능과 달리 일찍 가서 좋은게 하나도 없다는 것입니다.&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;시험장 환경을 예상할 수 없다. 사실 대부분 춥거나 더워서 불편한 경우가 많다.&lt;/li&gt;
-  &lt;li&gt;시험 전 모든 개인물품을 가방에 넣으라고 지시하는데, 늦게 들어가면 그 시간에 공부를 더 할 수 있다.&lt;/li&gt;
-  &lt;li&gt;이 때문에 늦게 들어가도, 어차피 입장 마감 무려 30분 뒤에 시험을 보기 때문에, 다른 사람한테 민폐를 주지 않는다. 대신 주목 받는 것이 살짝 부끄러워 하는 사람은 못할 듯. 그리고 들어가서는 빠른 속도로 바로 시험 준비맨으로 깔끔하게 세팅할 수 있도록 겉 옷을 미리 벗어서 가지고 들어갔고, 신분증 &amp;amp; 펜은 손에 들고 들어가서 빠른 속도로 부시럭거림을 최소화하고, 화장실 가서 손도 한 번 씻고 와서 앉았다. 머리속에 미리 생각하던대로 움직여보니까 5분이 채 안걸렸다. 슈퍼 수험생맨 같은 멘트지만 나는 정신사나운걸 싫어하다보니 이게 도움이 되었다.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;시험장 환경을 예상할 수 없고, 사실 대부분 춥거나 더워서 불편한 경우가 많습니다.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;마감 시간에 입장 입장이 아직 가능한 상태임에도 모든 개인물품을 미리 가방에 넣으라고 지시합니다.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;그렇기 때문에 아이러니하지만 늦게 들어가면 그 시간에 공부를 더 할 수 있습니다. 입장 시간이 마감 직전에 들어가더라도 무려 30분 뒤에 시험을 보기 때문에 다른 응시자들에게 영향을 주진 않습니다.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;겉옷을 미리 벗어 들고, 신분증과 펜은 미리 손에 쥐고 들어가 자리에 앉자마자 빠르게 세팅했습니다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;부시럭거리며 정신사나운걸 싫어하시는 저같은 분들만 이렇게 하시면 됩니다.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;수험표는
+수험번호를 칠판에서 보고 외워서 자리에 가 받아적는 것는 것보단 그냥 수험표를 인쇄해서 들고가거나 수험번호를 적어가는 게 마음이 편합니다. 실제로 현장에선&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;ul&gt;
