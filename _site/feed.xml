@@ -1,18 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-01T09:36:37+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Manager Mwohye</title><subtitle></subtitle><author><name>매니저 뭐해</name></author><entry><title type="html">[SQLD/개정] 비전공자 후기, 합격과 불합격의 공부 방법 차이, 무료 강의 추천</title><link href="http://localhost:4000/sqld/SQLD-review/" rel="alternate" type="text/html" title="[SQLD/개정] 비전공자 후기, 합격과 불합격의 공부 방법 차이, 무료 강의 추천" /><published>2020-12-18T00:00:00+09:00</published><updated>2021-12-18T15:15:00+09:00</updated><id>http://localhost:4000/sqld/SQLD-review</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-review/">&lt;h3 id=&quot;서론&quot;&gt;서론&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-01T10:12:22+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Manager Mwohye</title><subtitle></subtitle><author><name>매니저 뭐해</name></author><entry><title type="html">[SQLD/개정] 비전공자 리뷰, 합격-불합격을 결정한 공부 방법 차이, 무료 강의 추천</title><link href="http://localhost:4000/sqld/SQLD-review/" rel="alternate" type="text/html" title="[SQLD/개정] 비전공자 리뷰, 합격-불합격을 결정한 공부 방법 차이, 무료 강의 추천" /><published>2021-12-18T00:00:00+09:00</published><updated>2021-12-18T15:15:00+09:00</updated><id>http://localhost:4000/sqld/SQLD-review</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-review/">&lt;p&gt;&lt;img src=&quot;\assets\images\SQLD\2021-12-18-SQLD-review\1.JPG&quot; alt=&quot;SQLD 점수 결과 이미지&quot; /&gt;
+ &lt;/p&gt;
 
-&lt;p&gt;11월에 응시했던 SQLD 결과가 나왔고 예상했던 대로 무난히 합격했다.
-알려주고 싶은 정보는&lt;/p&gt;
+&lt;h1 id=&quot;시험-정보&quot;&gt;시험 정보&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;제 43회 SQL개발자(SQLD)&lt;/li&gt;
+  &lt;li&gt;응시일시 : 11월 20일 토요일 10:00am - 11:30am&lt;/li&gt;
+  &lt;li&gt;전체 문제 : 40문제 객관식 + 10문제 주관식&lt;/li&gt;
+  &lt;li&gt;합격 기준 : 60점 이상&lt;/li&gt;
+  &lt;li&gt;과락 기준 : 1과목(10문제), 또는 2과목(40문제) 40점 미만&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;서론&quot;&gt;서론&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;비전공자, 직장인이고, 2년 전 불합격 딱지&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;저는 심리학 출신으로 전략 기획 업무를 하고 있고, 실제 업무에도 SQLD를 공부했던 내용이 근육처럼 남아 많은 힘이 되고 있습니다. 개인적으로 2년 전 불합격 당시와 이번 공부는 저에게 여러모로 큰 차이가 있었고,&lt;/p&gt;
+
 &lt;ol&gt;
   &lt;li&gt;일과 병행하며 효율적으로 공부하면서, 실제로 이해하고자 했던 과정&lt;/li&gt;
   &lt;li&gt;시험장 정보 &amp;amp; 꿀팁&lt;/li&gt;
 &lt;/ol&gt;
 
+&lt;p&gt; &lt;/p&gt;
+
 &lt;h3 id=&quot;별거-없는-응시-스펙&quot;&gt;별거 없는 응시 스펙&lt;/h3&gt;
+
 &lt;ul&gt;
   &lt;li&gt;전공 : 심리학과&lt;/li&gt;
   &lt;li&gt;응시 경험 : 2년전 이후 2번째&lt;/li&gt;
   &lt;li&gt;공부 시간 : 2주&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt; &lt;/p&gt;
 
 &lt;h3 id=&quot;공부-방법&quot;&gt;공부 방법&lt;/h3&gt;
 
@@ -38,7 +62,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;전날 : 안 함. 퇴근 후 동창회 갔음(???) 
+    &lt;p&gt;전날 : 안 함. 퇴근 후 동창회 갔음(???)
 단톡방 들어간 것 외에 한 게 없다.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -49,6 +73,7 @@
 &lt;p&gt;아침 8시에 스타벅스에 도착했고, 커피랑 간식 기분좋게 든든하게 먹으면서 오답노트랑 유투브 노트를 돌렸다. 그리고 시험장에는 입장 막기 직전에 들어갔다.&lt;/p&gt;
 
 &lt;p&gt;그간 자격증 시험 보며 느낀 점은 수능과 달리 일찍 가서 좋은게 하나도 없다는 거다.&lt;/p&gt;
+
 &lt;ol&gt;
   &lt;li&gt;시험장 환경을 예상할 수 없다. 사실 대부분 춥거나 더워서 불편한 경우가 많다.&lt;/li&gt;
   &lt;li&gt;시험 전 모든 개인물품을 가방에 넣으라고 지시하는데, 늦게 들어가면 그 시간에 공부를 더 할 수 있다.&lt;/li&gt;
@@ -65,11 +90,15 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt; &lt;/p&gt;
+
 &lt;h3 id=&quot;합격과-불합격의-공부-차이--이해하려는-노오력&quot;&gt;합격과 불합격의 공부 차이 : 이해하려는 노오력&lt;/h3&gt;
 
 &lt;p&gt;나는 1단원을 책으로 정말 흥미롭게 봤다.
 1단원과 2단원을 따로 생각하고, 각각 단원의 연관성을 고려해본 적이 없는데
 1단원을 열심히 읽고 나니 다른 단원 내용들도 이해가 잘 가는 것을 느낄 수 있었다.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
 
 &lt;h3 id=&quot;sqld-추천--비추천-공부방법&quot;&gt;SQLD 추천 &amp;amp; 비추천 공부방법&lt;/h3&gt;
 
@@ -84,7 +113,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;단톡방 들어가기 
+    &lt;p&gt;단톡방 들어가기
 단톡방은 시험 정보를 빠르게 알기 위해 들어갔었다.
 시험장에서 나온 직후부터 바로 생생한 시험 난이도 후기와, 시험지와 정답을 공유하지 않는 SQLD 특성상 다같이 머리를 모아가며 내 점수를 추정해야 하기 때문이다.
 방 마다 분위기가 다를 수 있겠으나, 내가 시험본 43회 시험때는 오답을 너무 당당히 정답이라고 우기는 분들이 있어서 채팅방에 혼란만 주고 별로 도움이 되지 않았다. 시험 본 직후 30분까지만 열심히 보고 이후에는 카페에서 대부분의 정보를 받았다.&lt;/p&gt;
@@ -108,12 +137,13 @@
   &lt;li&gt;SQL 직접 컴퓨터로 입력해보기&lt;/li&gt;
   &lt;li&gt;자기만의 요약된 정보 가지기&lt;/li&gt;
   &lt;li&gt;카페 가입하기&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">서론</summary></entry><entry><title type="html">[SQLD/개정] 11/20 43회 시험 가답안 총정리 (정답, 과목, 문제)</title><link href="http://localhost:4000/sqld/SQLD-43th/" rel="alternate" type="text/html" title="[SQLD/개정] 11/20 43회 시험 가답안 총정리 (정답, 과목, 문제)" /><published>2020-11-21T00:00:00+09:00</published><updated>2021-11-30T17:27:00+09:00</updated><id>http://localhost:4000/sqld/SQLD-43th</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-43th/">&lt;ul&gt;
+&lt;/ul&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html"> </summary></entry><entry><title type="html">[SQLD/개정] 2021/11/20 43회 시험 가답안 총정리 (정답, 과목, 문제)</title><link href="http://localhost:4000/sqld/SQLD-43th/" rel="alternate" type="text/html" title="[SQLD/개정] 2021/11/20 43회 시험 가답안 총정리 (정답, 과목, 문제)" /><published>2021-11-21T00:00:00+09:00</published><updated>2021-11-30T17:27:00+09:00</updated><id>http://localhost:4000/sqld/SQLD-43th</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-43th/">&lt;ul&gt;
   &lt;li&gt;지속적으로 업데이트 됩니다.&lt;/li&gt;
   &lt;li&gt;공유가 문제가 되지 않는 선에서 시험 본 분들만 이해하실 수 있도록 최소한의 키워드만 기재했습니다.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt; &lt;/p&gt;
+
 &lt;h1 id=&quot;시험-정보&quot;&gt;시험 정보&lt;/h1&gt;
 
 &lt;ul&gt;
@@ -127,6 +157,7 @@
 &lt;/ul&gt;
 
 &lt;p&gt; &lt;/p&gt;
+
 &lt;h1 id=&quot;발표-전-점수-미리-보는-법&quot;&gt;발표 전 점수 미리 보는 법&lt;/h1&gt;
 
 &lt;ol&gt;
@@ -140,6 +171,7 @@
 &lt;/ol&gt;
 
 &lt;p&gt; &lt;/p&gt;
+
 &lt;h1 id=&quot;sqld-43회-객관식-답안-리스트&quot;&gt;SQLD 43회 객관식 답안 리스트&lt;/h1&gt;
 
 &lt;table&gt;
@@ -390,6 +422,7 @@
 &lt;/table&gt;
 
 &lt;p&gt; &lt;/p&gt;
+
 &lt;h1 id=&quot;sqld-43회-주관식-답안-리스트&quot;&gt;SQLD 43회 주관식 답안 리스트&lt;/h1&gt;
 
 &lt;table&gt;
@@ -463,7 +496,7 @@
       &lt;td&gt;-&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">지속적으로 업데이트 됩니다. 공유가 문제가 되지 않는 선에서 시험 본 분들만 이해하실 수 있도록 최소한의 키워드만 기재했습니다.</summary></entry><entry><title type="html">[SQLD/개정] 요약 정리(3/4) - 2과목 2장, SQL 활용</title><link href="http://localhost:4000/sqld/SQLD-3/" rel="alternate" type="text/html" title="[SQLD/개정] 요약 정리(3/4) - 2과목 2장, SQL 활용" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-25T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-3</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-3/">&lt;p&gt; &lt;/p&gt;
+&lt;/table&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">지속적으로 업데이트 됩니다. 공유가 문제가 되지 않는 선에서 시험 본 분들만 이해하실 수 있도록 최소한의 키워드만 기재했습니다.</summary></entry><entry><title type="html">[SQLD/개정] 요약 정리(3/4) - 2과목 2장, SQL 활용</title><link href="http://localhost:4000/sqld/SQLD-3/" rel="alternate" type="text/html" title="[SQLD/개정] 요약 정리(3/4) - 2과목 2장, SQL 활용" /><published>2021-10-26T00:00:00+09:00</published><updated>2021-10-25T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-3</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-3/">&lt;p&gt; &lt;/p&gt;
 &lt;h2 id=&quot;제-1절-표준-조인&quot;&gt;제 1절. 표준 조인&lt;/h2&gt;
 
 &lt;h3 id=&quot;standard-sql&quot;&gt;STANDARD SQL&lt;/h3&gt;
@@ -521,12 +554,7 @@
 
 &lt;h2 id=&quot;제-8절-절차형-sql&quot;&gt;제 8절. 절차형 SQL&lt;/h2&gt;
 
-&lt;p&gt;광고매체ID, MIN(광고시작일자)&lt;/p&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  제 1절. 표준 조인</summary></entry><entry><title type="html">[SQLD/개정] 요약 정리(4/4) - 2과목 3장, SQL 최적화 기본 원리</title><link href="http://localhost:4000/sqld/SQLD-4/" rel="alternate" type="text/html" title="[SQLD/개정] 요약 정리(4/4) - 2과목 3장, SQL 최적화 기본 원리" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-26T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-4</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-4/">&lt;p&gt; &lt;/p&gt;
-&lt;h2 id=&quot;제-1절-옵티마이저와-실행계획&quot;&gt;제 1절. 옵티마이저와 실행계획&lt;/h2&gt;
-
-&lt;h2 id=&quot;제-2절-인덱스-기본&quot;&gt;제 2절. 인덱스 기본&lt;/h2&gt;
-
-&lt;h2 id=&quot;제-3절-조인-수행-원리&quot;&gt;제 3절. 조인 수행 원리&lt;/h2&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  제 1절. 옵티마이저와 실행계획</summary></entry><entry><title type="html">[SQLD/개정] FOREIGN KEY에 의한 명령어 정리 (CASCADE, SET NULL)</title><link href="http://localhost:4000/sqld/SQLD-5/" rel="alternate" type="text/html" title="[SQLD/개정] FOREIGN KEY에 의한 명령어 정리 (CASCADE, SET NULL)" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-27T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-5</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-5/">&lt;h3 id=&quot;foreign-key에-의한-actions&quot;&gt;FOREIGN KEY에 의한 ACTIONS&lt;/h3&gt;
+&lt;p&gt;광고매체ID, MIN(광고시작일자)&lt;/p&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  제 1절. 표준 조인</summary></entry><entry><title type="html">[SQLD/개정] FOREIGN KEY에 의한 명령어 정리 (CASCADE, SET NULL)</title><link href="http://localhost:4000/sqld/SQLD-4/" rel="alternate" type="text/html" title="[SQLD/개정] FOREIGN KEY에 의한 명령어 정리 (CASCADE, SET NULL)" /><published>2021-10-26T00:00:00+09:00</published><updated>2021-10-27T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-4</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-4/">&lt;h3 id=&quot;foreign-key에-의한-actions&quot;&gt;FOREIGN KEY에 의한 ACTIONS&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ON DELETE&lt;/code&gt; 부모 테이블의 행이 삭제될 때 자식 테이블에 일어나는 일들
@@ -578,7 +606,7 @@
   &lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;
   &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;INTEGER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;PRIMARY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;KEY&lt;/span&gt;
   &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;INTEGER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;REFERENCES&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블이름&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;칼럼&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DELETE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SET&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;NULL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">FOREIGN KEY에 의한 ACTIONS</summary></entry><entry><title type="html">[SQLD/개정] 최종 정리 노트 - 김강민SQLD (1/2)</title><link href="http://localhost:4000/sqld/SQLD-91/" rel="alternate" type="text/html" title="[SQLD/개정] 최종 정리 노트 - 김강민SQLD (1/2)" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-28T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-91</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-91/">&lt;blockquote&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">FOREIGN KEY에 의한 ACTIONS</summary></entry><entry><title type="html">[SQLD/개정] 최종 정리 노트 - 김강민SQLD (1/2)</title><link href="http://localhost:4000/sqld/SQLD-91/" rel="alternate" type="text/html" title="[SQLD/개정] 최종 정리 노트 - 김강민SQLD (1/2)" /><published>2021-10-26T00:00:00+09:00</published><updated>2021-10-28T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-91</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-91/">&lt;blockquote&gt;
   &lt;p&gt;해당 내용은 김강민 SQLD ‘SQLD 최종 정리강의 1편’과 관련된 내용입니다.&lt;br /&gt;
 관련 영상 링크 : https://www.youtube.com/watch?v=PC3ypt_VGWI&amp;amp;t&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -884,7 +912,7 @@ TCL – COMMIT, ROLLBACK, SAVEPOINT&lt;/p&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;GROUPING SETS : 원하는 부분의 소계만 추출&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">해당 내용은 김강민 SQLD ‘SQLD 최종 정리강의 1편’과 관련된 내용입니다. 관련 영상 링크 : https://www.youtube.com/watch?v=PC3ypt_VGWI&amp;amp;t</summary></entry><entry><title type="html">[SQLD/개정] 최종 정리 노트 - 김강민SQLD (2/2)</title><link href="http://localhost:4000/sqld/SQLD-92/" rel="alternate" type="text/html" title="[SQLD/개정] 최종 정리 노트 - 김강민SQLD (2/2)" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-29T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-92</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-92/">&lt;blockquote&gt;
+&lt;/ul&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">해당 내용은 김강민 SQLD ‘SQLD 최종 정리강의 1편’과 관련된 내용입니다. 관련 영상 링크 : https://www.youtube.com/watch?v=PC3ypt_VGWI&amp;amp;t</summary></entry><entry><title type="html">[SQLD/개정] 최종 정리 노트 - 김강민SQLD (2/2)</title><link href="http://localhost:4000/sqld/SQLD-92/" rel="alternate" type="text/html" title="[SQLD/개정] 최종 정리 노트 - 김강민SQLD (2/2)" /><published>2021-10-26T00:00:00+09:00</published><updated>2021-10-29T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-92</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-92/">&lt;blockquote&gt;
   &lt;p&gt;해당 내용은 김강민 SQLD ‘SQLD 최종 정리강의 2편’과 관련된 내용입니다.&lt;br /&gt;
 관련 영상 링크 : https://www.youtube.com/watch?v=PjCSvexo3Ow&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1175,7 +1203,7 @@ TCL – COMMIT, ROLLBACK, SAVEPOINT&lt;/p&gt;
   &lt;li&gt;정규화&lt;/li&gt;
   &lt;li&gt;PIVOT, UNPIVOT&lt;/li&gt;
   &lt;li&gt;MERGE&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">해당 내용은 김강민 SQLD ‘SQLD 최종 정리강의 2편’과 관련된 내용입니다. 관련 영상 링크 : https://www.youtube.com/watch?v=PjCSvexo3Ow</summary></entry><entry><title type="html">[SQLD/개정] 오답노트 과목 1 - 데이터의 이해</title><link href="http://localhost:4000/sqld/SQLD-98/" rel="alternate" type="text/html" title="[SQLD/개정] 오답노트 과목 1 - 데이터의 이해" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-11-24T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-98</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-98/">&lt;p&gt; &lt;/p&gt;
+&lt;/ul&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">해당 내용은 김강민 SQLD ‘SQLD 최종 정리강의 2편’과 관련된 내용입니다. 관련 영상 링크 : https://www.youtube.com/watch?v=PjCSvexo3Ow</summary></entry><entry><title type="html">[SQLD/개정] 오답노트 과목 1 - 데이터의 이해</title><link href="http://localhost:4000/sqld/SQLD-98/" rel="alternate" type="text/html" title="[SQLD/개정] 오답노트 과목 1 - 데이터의 이해" /><published>2021-10-26T00:00:00+09:00</published><updated>2021-11-24T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-98</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-98/">&lt;p&gt; &lt;/p&gt;
 &lt;h1 id=&quot;1장-데이터-모델링의-이해&quot;&gt;1장. 데이터 모델링의 이해&lt;/h1&gt;
 
 &lt;p&gt; &lt;/p&gt;
@@ -1230,32 +1258,7 @@ TCL – COMMIT, ROLLBACK, SAVEPOINT&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;트랜젝션은 항상 전체를 통합하여 처리함&lt;/li&gt;
   &lt;li&gt;슈퍼-서브타입을 하나 테이블로 통합 시 &lt;strong&gt;조인이 감소&lt;/strong&gt;되어 성능이 우수함&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  1장. 데이터 모델링의 이해</summary></entry><entry><title type="html">[SQLD/개정] 오답노트 과목 2 - SQL 기본 및 활용</title><link href="http://localhost:4000/sqld/SQLD-99/" rel="alternate" type="text/html" title="[SQLD/개정] 오답노트 과목 2 - SQL 기본 및 활용" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-11-24T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-99</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-99/">&lt;p&gt; &lt;/p&gt;
-&lt;h1 id=&quot;1장-sql-기본&quot;&gt;1장. SQL 기본&lt;/h1&gt;
-
-&lt;h3 id=&quot;비절차적--절차적-데이터-조작어-dml&quot;&gt;비절차적 &amp;amp; 절차적 데이터 조작어 (DML)&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;비절차적 데이터 조작어 : 무슨 데이터 원하는지 명세&lt;/li&gt;
-  &lt;li&gt;절차적 데이터 조작어 : 무슨 데이터 원하는지 + 어떻게 접근해야 하는지&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;delete--truncate--drop&quot;&gt;DELETE &amp;amp; TRUNCATE &amp;amp; DROP&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;DELETE : DML, 데이터만 삭제, 로그 O, 원하는 데이터만 지울 수 있음, ROLLBACK 가능&lt;/li&gt;
-  &lt;li&gt;TRUNCATE : DDL, 데이터만 통 삭제, 저장공간 남음, 로그 X, 통으로 날려야 함, ROLLBACK 불가&lt;/li&gt;
-  &lt;li&gt;DROP : DDL, 테이블 존재 자체가 삭제, 로그 X, ROLLBACK 불가&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;DELETE&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블명&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;조건문&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;TRUNCATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; 
-&lt;span class=&quot;k&quot;&gt;DROP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;TABLE&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;테이블명&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt; &lt;/p&gt;
-&lt;h1 id=&quot;2장-sql-활용&quot;&gt;2장. SQL 활용&lt;/h1&gt;
-
-&lt;p&gt; &lt;/p&gt;
-&lt;h1 id=&quot;3장-sql-최적화-기본-원리&quot;&gt;3장. SQL 최적화 기본 원리&lt;/h1&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  1장. SQL 기본</summary></entry><entry><title type="html">[SQLD/개정] 요약 정리(2/4) - 2과목 1장, SQL 기본</title><link href="http://localhost:4000/sqld/SQLD-2/" rel="alternate" type="text/html" title="[SQLD/개정] 요약 정리(2/4) - 2과목 1장, SQL 기본" /><published>2020-10-26T00:00:00+09:00</published><updated>2021-10-24T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-2</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-2/">&lt;p&gt; &lt;/p&gt;
+&lt;/ul&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  1장. 데이터 모델링의 이해</summary></entry><entry><title type="html">[SQLD/개정] 요약 정리(2/4) - 2과목 1장, SQL 기본</title><link href="http://localhost:4000/sqld/SQLD-2/" rel="alternate" type="text/html" title="[SQLD/개정] 요약 정리(2/4) - 2과목 1장, SQL 기본" /><published>2021-10-26T00:00:00+09:00</published><updated>2021-10-24T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-2</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-2/">&lt;p&gt; &lt;/p&gt;
 &lt;h1 id=&quot;제-1절-관계형-데이터베이스-개요&quot;&gt;제 1절. 관계형 데이터베이스 개요&lt;/h1&gt;
 
 &lt;h2 id=&quot;데이터베이스&quot;&gt;데이터베이스&lt;/h2&gt;
@@ -1893,4 +1896,108 @@ TCL – COMMIT, ROLLBACK, SAVEPOINT&lt;/p&gt;
   &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;구매정보&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;B&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;고객번호&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;B&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;고객번호&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;이름&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;등급&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;HAVING&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;COUNT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;B&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;구매번호&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  제 1절. 관계형 데이터베이스 개요</summary></entry></feed>
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  제 1절. 관계형 데이터베이스 개요</summary></entry><entry><title type="html">[SQLD/개정] 요약 정리(1/4) - 1과목, 데이터 모델링의 이해 및 데이터 모델과 성능</title><link href="http://localhost:4000/sqld/SQLD-1/" rel="alternate" type="text/html" title="[SQLD/개정] 요약 정리(1/4) - 1과목, 데이터 모델링의 이해 및 데이터 모델과 성능" /><published>2021-10-22T00:00:00+09:00</published><updated>2021-10-23T03:01:27+09:00</updated><id>http://localhost:4000/sqld/SQLD-1</id><content type="html" xml:base="http://localhost:4000/sqld/SQLD-1/">&lt;p&gt; &lt;/p&gt;
+&lt;h1 id=&quot;제-1절-데이터모델의-이해&quot;&gt;제 1절. 데이터모델의 이해&lt;/h1&gt;
+
+&lt;h2 id=&quot;1-모델링의-이해&quot;&gt;1. 모델링의 이해&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;모델링 : “다양한 현상을 표기법에 의해 표기하는 것”&lt;/li&gt;
+  &lt;li&gt;특징 3가지 : 추상화, 단순화, 명확화&lt;/li&gt;
+  &lt;li&gt;관점 3가지 : 데이터 관점, 프로세스 관점, 상관 관점&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2-데이터모델의-기본개념이해&quot;&gt;2. 데이터모델의 기본개념이해&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;데이터모델링 : “정보시스템을 구축하기 위한 데이터관점의 업무분석기법”&lt;/li&gt;
+  &lt;li&gt;데이터모델이 제공하는 기능
+    &lt;ul&gt;
+      &lt;li&gt;시스템 가시화, 시스템 구조와 행동 명세화, 시스템 구축의 구조화된 틀 제공&lt;/li&gt;
+      &lt;li&gt;문서화, 세부사항은 숨기는 다양한 관점 제공, 상세 수준의 표현방법 제공&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;3-데이터모델링의-중요성-및-유의점&quot;&gt;3. 데이터모델링의 중요성 및 유의점&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;중요성 3가지 : 파급효과, 복잡한 정보요규사항의 간결한 표현, 데이터 품질&lt;/li&gt;
+  &lt;li&gt;유의점 3가지 : 중복, 비유연성, 비일관성&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;4-데이터모델링의-3단계-진행&quot;&gt;4. 데이터모델링의 3단계 진행&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;개념적 데이터모델링&lt;/li&gt;
+  &lt;li&gt;논리적 데이터모델링&lt;/li&gt;
+  &lt;li&gt;물리적 데이터모델링&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;5-프로젝트-생명주기에서-데이터-모델링&quot;&gt;5. 프로젝트 생명주기에서 데이터 모델링&lt;/h2&gt;
+
+&lt;h2 id=&quot;6-데이터-모델링에서-데이터-독립성의-이해&quot;&gt;6. 데이터 모델링에서 데이터 독립성의 이해&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;데이터 독립성의 필요성 : 유지보수비용 증가, 데이터 복잡도 증가, 데이터 중복성 증가, 요구사항대응 저하&lt;/li&gt;
+  &lt;li&gt;데이터베이스 3단계 구조 : 외부 단계, 개념적 단계, 내부적 단계&lt;/li&gt;
+  &lt;li&gt;데이터독립성 3개 요소 : 외부 스키마, 개념 스키마, 내부 스티마&lt;/li&gt;
+  &lt;li&gt;두 영역의 데이터 독립성 : 논리적 독립성, 물리적 독립성&lt;/li&gt;
+  &lt;li&gt;Mapping (사상) : 외부/개념적 사항 + 개념/물리적 사상의 상호 독립적인 개념을 연결시켜주는 다리&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;7-데이터-모델링의-중요한-세-가지-개념&quot;&gt;7. 데이터 모델링의 중요한 세 가지 개념&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;데이터 모델링의 3가지 요소 : Thing, Attributes, Relationship&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;단수와 집합(복수)의 명명&lt;/p&gt;
+
+    &lt;table&gt;
+      &lt;thead&gt;
+        &lt;tr&gt;
+          &lt;th style=&quot;text-align: left&quot;&gt;개념&lt;/th&gt;
+          &lt;th style=&quot;text-align: center&quot;&gt;복수/집합개념 &amp;amp; 타입/클래스&lt;/th&gt;
+          &lt;th style=&quot;text-align: right&quot;&gt;개별/단수 개념 &amp;amp; 어커런스/인스턴스&lt;/th&gt;
+        &lt;/tr&gt;
+      &lt;/thead&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td style=&quot;text-align: left&quot;&gt;어떤 것&lt;/td&gt;
+          &lt;td style=&quot;text-align: center&quot;&gt;엔터티타입(Entity Type) / 엔터티(Entity)&lt;/td&gt;
+          &lt;td style=&quot;text-align: right&quot;&gt;엔터티(Entity) / 인스턴스(Instance)&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td style=&quot;text-align: left&quot;&gt;어떤 것간의 연관&lt;/td&gt;
+          &lt;td style=&quot;text-align: center&quot;&gt;관계(Relationship)&lt;/td&gt;
+          &lt;td style=&quot;text-align: right&quot;&gt;페어링 (Pairing)&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td style=&quot;text-align: left&quot;&gt;어떤 것의 성격&lt;/td&gt;
+          &lt;td style=&quot;text-align: center&quot;&gt;속성 (Attributes)&lt;/td&gt;
+          &lt;td style=&quot;text-align: right&quot;&gt;속성값 (Attribute Value)&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;8-erdentity-relationship-diagram&quot;&gt;8. ERD(Entity Relationship Diagram)&lt;/h2&gt;
+&lt;p&gt;엔터티를 사각형으로, 관계를 마름모로, 속성을 타원형으로 표현&lt;/p&gt;
+
+&lt;h2 id=&quot;9-좋은-데이터-모델의-요소&quot;&gt;9. 좋은 데이터 모델의 요소&lt;/h2&gt;
+&lt;p&gt;완전성, 중복배제, 업무규칙, 데이터 재사용, 의사소통, 통합성&lt;/p&gt;
+
+&lt;h1 id=&quot;제-2절-엔터티&quot;&gt;제 2절. 엔터티&lt;/h1&gt;
+
+&lt;h2 id=&quot;1-엔터티의-개념--실체-객체&quot;&gt;1. 엔터티의 개념 : “실체, 객체”&lt;/h2&gt;
+
+&lt;h2 id=&quot;2-엔터티의-특징&quot;&gt;2. 엔터티의 특징&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;업무에서 필요로 하는 정보&lt;/li&gt;
+  &lt;li&gt;식별자에 의해 식별이 가능해야 함&lt;/li&gt;
+  &lt;li&gt;인스턴스의 집합&lt;/li&gt;
+  &lt;li&gt;업무프로세스에 의해 이용&lt;/li&gt;
+  &lt;li&gt;속성을 포함&lt;/li&gt;
+  &lt;li&gt;관계의 존재&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;3-엔터티의-분류&quot;&gt;3. 엔터티의 분류&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;유무형에 따른 분류 : 유형 엔터티, 개념 엔터티, 사건 엔터티&lt;/li&gt;
+  &lt;li&gt;발생시점에 따른 분류 : 기본 엔터티, 중심 엔터티, 행위 엔터티&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>매니저 뭐해</name></author><category term="SQLD" /><category term="SQL" /><category term="SQLD" /><category term="자격증" /><summary type="html">  제 1절. 데이터모델의 이해</summary></entry></feed>

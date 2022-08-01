@@ -17,16 +17,10 @@ var store = [{
         "url": "/sqld/SQLD-3/",
         "teaser": null
       },{
-        "title": "[SQLD/개정] 요약 정리(4/4) - 2과목 3장, SQL 최적화 기본 원리",
-        "excerpt":"   제 1절. 옵티마이저와 실행계획   제 2절. 인덱스 기본   제 3절. 조인 수행 원리  ","categories": ["SQLD"],
-        "tags": ["SQL","SQLD","자격증"],
-        "url": "/sqld/SQLD-4/",
-        "teaser": null
-      },{
         "title": "[SQLD/개정] FOREIGN KEY에 의한 명령어 정리 (CASCADE, SET NULL)",
         "excerpt":"FOREIGN KEY에 의한 ACTIONS ON DELETE 부모 테이블의 행이 삭제될 때 자식 테이블에 일어나는 일들 CASDADE : 부모 삭제 시 자식도 삭제 SET NULL : 부모 삭제 시 자식은 NULL로 설정 SET DEFAULT : 부모 삭제 시 자식은 기본값 설정 RESTRICT : 자식이 없는 경우만 부모 삭제 ON INSERT 자식...","categories": ["SQLD"],
         "tags": ["SQL","SQLD","자격증"],
-        "url": "/sqld/SQLD-5/",
+        "url": "/sqld/SQLD-4/",
         "teaser": null
       },{
         "title": "[SQLD/개정] 최종 정리 노트 - 김강민SQLD (1/2)",
@@ -47,20 +41,14 @@ var store = [{
         "url": "/sqld/SQLD-98/",
         "teaser": null
       },{
-        "title": "[SQLD/개정] 오답노트 과목 2 - SQL 기본 및 활용",
-        "excerpt":"  1장. SQL 기본 비절차적 &amp; 절차적 데이터 조작어 (DML) 비절차적 데이터 조작어 : 무슨 데이터 원하는지 명세 절차적 데이터 조작어 : 무슨 데이터 원하는지 + 어떻게 접근해야 하는지 DELETE &amp; TRUNCATE &amp; DROP DELETE : DML, 데이터만 삭제, 로그 O, 원하는 데이터만 지울 수 있음, ROLLBACK 가능 TRUNCATE :...","categories": ["SQLD"],
-        "tags": ["SQL","SQLD","자격증"],
-        "url": "/sqld/SQLD-99/",
-        "teaser": null
-      },{
-        "title": "[SQLD/개정] 11/20 43회 시험 가답안 총정리 (정답, 과목, 문제)",
+        "title": "[SQLD/개정] 2021/11/20 43회 시험 가답안 총정리 (정답, 과목, 문제)",
         "excerpt":"지속적으로 업데이트 됩니다. 공유가 문제가 되지 않는 선에서 시험 본 분들만 이해하실 수 있도록 최소한의 키워드만 기재했습니다.   시험 정보 제 43회 SQL개발자(SQLD) 11월 20일 토요일 10:00am - 11:30am 결과발표 : 2021.12.17 https://www.dataq.or.kr/www/main.do 전체 문제 : 40문제 객관식 + 10문제 주관식 합격 기준 : 60점 이상 과락 기준 : 1과목(10문제),...","categories": ["SQLD"],
         "tags": ["SQL","SQLD","자격증"],
         "url": "/sqld/SQLD-43th/",
         "teaser": null
       },{
-        "title": "[SQLD/개정] 비전공자 후기, 합격과 불합격의 공부 방법 차이, 무료 강의 추천",
-        "excerpt":"서론 11월에 응시했던 SQLD 결과가 나왔고 예상했던 대로 무난히 합격했다. 알려주고 싶은 정보는 일과 병행하며 효율적으로 공부하면서, 실제로 이해하고자 했던 과정 시험장 정보 &amp; 꿀팁 별거 없는 응시 스펙 전공 : 심리학과 응시 경험 : 2년전 이후 2번째 공부 시간 : 2주 공부 방법 2주 전 : 노랭이 책 2번...","categories": ["SQLD"],
+        "title": "[SQLD/개정] 비전공자 리뷰, 합격-불합격을 결정한 공부 방법 차이, 무료 강의 추천",
+        "excerpt":"  시험 정보 제 43회 SQL개발자(SQLD) 응시일시 : 11월 20일 토요일 10:00am - 11:30am 전체 문제 : 40문제 객관식 + 10문제 주관식 합격 기준 : 60점 이상 과락 기준 : 1과목(10문제), 또는 2과목(40문제) 40점 미만   서론 비전공자, 직장인이고, 2년 전 불합격 딱지 저는 심리학 출신으로 전략 기획 업무를 하고...","categories": ["SQLD"],
         "tags": ["SQL","SQLD","자격증"],
         "url": "/sqld/SQLD-review/",
         "teaser": null
